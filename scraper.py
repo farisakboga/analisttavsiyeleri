@@ -9,11 +9,11 @@ CIKTI_DOSYASI = "data/analist_tavsiyeleri.json"
 
 def veriyi_cek(page):
     print(f"Adresine gidiliyor: {HEDEF_URL}")
-    page.goto(HEDEF_URL)
+    page.goto(HEDEF_URL, wait_until="domcontentloaded", timeout=60000)
 
     print("Tablonun yüklenmesi bekleniyor...")
-    page.wait_for_load_state("networkidle")
-    page.wait_for_selector("tbody tr", timeout=20000)
+    # networkidle yerine doğrudan satır bekliyoruz — daha güvenilir
+    page.wait_for_selector("tbody tr", timeout=30000)
 
     tum_satirlar = {}
     headers = []
@@ -101,8 +101,23 @@ def main():
 
     with sync_playwright() as p:
         print("Chromium başlatılıyor...")
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(viewport={"width": 1280, "height": 800})
+        browser = p.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"]
+        )
+        context = browser.new_context(
+            viewport={"width": 1280, "height": 800},
+            user_agent=(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/125.0.0.0 Safari/537.36"
+            ),
+            locale="tr-TR",
+            timezone_id="Europe/Istanbul",
+        )
+        context.add_init_script(
+            "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+        )
         page = context.new_page()
 
         try:
