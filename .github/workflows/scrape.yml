@@ -1,0 +1,40 @@
+name: Analist Tavsiyeleri Güncelle
+
+on:
+  schedule:
+    - cron: '0,30 * * * *'   # Her saat başı ve 30. dakikada çalışır
+  workflow_dispatch:           # Elle de tetiklenebilir (Actions sekmesinden)
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write          # JSON dosyasını commit edebilmek için
+
+    steps:
+      - name: Repoyu klonla
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Bağımlılıkları yükle
+        run: |
+          pip install playwright pandas
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Scraper'ı çalıştır
+        run: python scraper.py
+
+      - name: JSON'u commit et
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/analist_tavsiyeleri.json
+          # Değişiklik yoksa commit atma
+          git diff --staged --quiet || git commit -m "veri güncellendi: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
