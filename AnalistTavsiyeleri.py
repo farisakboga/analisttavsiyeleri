@@ -110,12 +110,12 @@ def veriyi_cek(page):
 
     df = pd.DataFrame(veri_listesi, columns=headers)
 
-# "Son Fiyat" sütunundaki gecikmeli fiyat göstergesi ikonunu temizle
-son_fiyat_cols = [c for c in df.columns if "son fiyat" in c.lower()]
-for col in son_fiyat_cols:
-    # Baştaki her türlü harf/sembol karakterini temizle, sadece rakam/virgül/nokta kals
-    df[col] = df[col].astype(str).str.replace(r'^[^\d]*', '', regex=True).str.strip()
-    df[col] = df[col].replace({'': None, '-': None, 'None': None, 'nan': None})
+    # "Son Fiyat" sütunundaki gecikmeli fiyat göstergesi ikonunu temizle
+    son_fiyat_cols = [c for c in df.columns if "son fiyat" in c.lower()]
+    for col in son_fiyat_cols:
+        # Baştaki rakam olmayan her şeyi temizle (G, ikon, boşluk vs.)
+        df[col] = df[col].astype(str).str.replace(r'^[^\d]*', '', regex=True).str.strip()
+        df[col] = df[col].replace({'': None, '-': None, 'None': None, 'nan': None})
 
     return df
 
