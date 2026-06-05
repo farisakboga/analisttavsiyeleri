@@ -1,0 +1,45 @@
+name: Analist Tavsiyeleri Scraper
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # Her 30 dakikada bir
+  workflow_dispatch:           # Elle de tetiklenebilir
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları yükle
+        run: |
+          pip install playwright pandas openpyxl
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Scripti çalıştır
+        run: python AnalistTavsiyeleri.py
+
+      # Script hata verse bile HTML artifact'ı yükle (debug için)
+      - name: Debug HTML yükle (hata varsa)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug_sayfa.html
+          if-no-files-found: ignore
+
+      - name: JSON'u Git'e commit et
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add analist_tavsiyeleri.json
+          git diff --cached --quiet || git commit -m "chore: analist tavsiyeleri güncellendi [skip ci]"
+          git push
