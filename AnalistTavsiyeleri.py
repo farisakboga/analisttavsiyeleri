@@ -110,10 +110,15 @@ def veriyi_cek(page):
 
     df = pd.DataFrame(veri_listesi, columns=headers)
 
-    # "Son Fiyat" sütunundaki gecikmeli fiyat göstergesi "G" harfini temizle
-    son_fiyat_cols = [c for c in df.columns if "son fiyat" in c.lower()]
-    for col in son_fiyat_cols:
-        df[col] = df[col].astype(str).str.replace(r'^G\s*', '', regex=True).str.strip()
+# "Son Fiyat" sütunundaki gecikmeli fiyat göstergesi "G" harfini temizle
+son_fiyat_cols = [c for c in df.columns if "son fiyat" in c.lower()]
+for col in son_fiyat_cols:
+    df[col] = df[col].astype(str).str.replace(r'^G\s*', '', regex=True).str.strip()
+    # Temizleme sonrası boş kalanları None yap
+    df[col] = df[col].replace({'': None, '-': None, 'None': None})
+    # Debug: hangi değerler geliyor
+    print(f"[DEBUG] {col} örnek değerler:", df[col].dropna().head(5).tolist())
+    print(f"[DEBUG] {col} boş kayıt sayısı:", df[col].isna().sum())
 
     return df
 
