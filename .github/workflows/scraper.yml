@@ -2,8 +2,11 @@ name: Analist Tavsiyeleri Scraper
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # Her 30 dakikada bir
-  workflow_dispatch:           # Elle de tetiklenebilir
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
