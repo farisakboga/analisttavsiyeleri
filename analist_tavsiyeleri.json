@@ -1,318 +1,90 @@
 [
   {
     "#": "1",
-    "Şirket Kodu": "CIMSA",
-    "Kurum": "Deniz",
+    "Şirket Kodu": "TUPRS",
+    "Kurum": "Ziraat",
     "Öneri": "Al",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "71,50",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 39,11",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "368,00",
+    "Son Fiyat": "231,90",
+    "Potansiyel Getiri": "% 58,69",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "2",
-    "Şirket Kodu": "AKCNS",
+    "Şirket Kodu": "PETKM",
     "Kurum": "Deniz",
     "Öneri": "Tut",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "250,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 12,11",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "21,00",
+    "Son Fiyat": "19,35",
+    "Potansiyel Getiri": "% 8,53",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "3",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Tera",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "59,70",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 39,88",
+    "Şirket Kodu": "TOASO",
+    "Kurum": "Alnus",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "426,42",
+    "Son Fiyat": "315,25",
+    "Potansiyel Getiri": "% 35,26",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "4",
-    "Şirket Kodu": "TKFEN",
-    "Kurum": "Ünlü",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "101,40",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% -25,06",
+    "Şirket Kodu": "YYLGD",
+    "Kurum": "Alnus",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "19,14",
+    "Son Fiyat": "11,53",
+    "Potansiyel Getiri": "% 66,00",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "5",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Tacirler",
+    "Şirket Kodu": "TURSG",
+    "Kurum": "Alnus",
     "Öneri": "Al",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "60,80",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 42,46",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "9,91",
+    "Son Fiyat": "6,65",
+    "Potansiyel Getiri": "% 49,02",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "6",
-    "Şirket Kodu": "ENKAI",
-    "Kurum": "HSBC",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "100,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 4,06",
+    "Şirket Kodu": "TUPRS",
+    "Kurum": "Alnus",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "336,16",
+    "Son Fiyat": "231,90",
+    "Potansiyel Getiri": "% 44,96",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "7",
-    "Şirket Kodu": "TAVHL",
-    "Kurum": "Garanti",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "448,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 53,42",
+    "Şirket Kodu": "AKBNK",
+    "Kurum": "Alnus",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "15 Haziran 2026",
+    "Hedef Fiyat": "95,40",
+    "Son Fiyat": "76,75",
+    "Potansiyel Getiri": "% 24,30",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "8",
-    "Şirket Kodu": "SELEC",
-    "Kurum": "Ahlatcı",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "131,54",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 6,60",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "9",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Trive",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "69,90",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 63,78",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "10",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "69,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 61,67",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "11",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Ahlatcı",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "62,40",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 46,20",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "12",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Deniz",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "61,23",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 43,46",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "13",
-    "Şirket Kodu": "THYAO",
-    "Kurum": "İnfo",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "373,25",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 14,58",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "14",
-    "Şirket Kodu": "TAVHL",
-    "Kurum": "İnfo",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "423,70",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 45,10",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "15",
-    "Şirket Kodu": "PGSUS",
-    "Kurum": "İnfo",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "218,50",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 20,58",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "16",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "65,76",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 54,08",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "17",
-    "Şirket Kodu": "EUPWR",
-    "Kurum": "Ak",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "149,60",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 49,82",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "18",
-    "Şirket Kodu": "GESAN",
-    "Kurum": "Ak",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "162,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 90,03",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "19",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Halk",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "63,40",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 48,55",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "20",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Yapı Kr.",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "68,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 59,33",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "21",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "62,22",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 45,78",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "22",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Kuv.Türk",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "56,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 31,21",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "23",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "58,28",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 36,55",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "24",
-    "Şirket Kodu": "MAVI",
-    "Kurum": "Ak",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "69,00",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 61,67",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "25",
-    "Şirket Kodu": "KLKIM",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "56,50",
-    "Son Fiyat": null,
-    "Potansiyel Getiri": "% 77,12",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "1",
-    "Şirket Kodu": "CIMSA",
-    "Kurum": "Deniz",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "11 Haziran 2026",
-    "Hedef Fiyat": "71,50",
-    "Son Fiyat": "51,40",
-    "Potansiyel Getiri": "% 39,11",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "2",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -324,7 +96,19 @@
     "Ek": ""
   },
   {
-    "#": "3",
+    "#": "9",
+    "Şirket Kodu": "CIMSA",
+    "Kurum": "Deniz",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "11 Haziran 2026",
+    "Hedef Fiyat": "71,50",
+    "Son Fiyat": "51,40",
+    "Potansiyel Getiri": "% 39,11",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "10",
     "Şirket Kodu": "MAVI",
     "Kurum": "Tera",
     "Öneri": "Endekse Paralel",
@@ -336,7 +120,7 @@
     "Ek": ""
   },
   {
-    "#": "4",
+    "#": "11",
     "Şirket Kodu": "TKFEN",
     "Kurum": "Ünlü",
     "Öneri": "Tut",
@@ -348,7 +132,7 @@
     "Ek": ""
   },
   {
-    "#": "5",
+    "#": "12",
     "Şirket Kodu": "MAVI",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -360,7 +144,7 @@
     "Ek": ""
   },
   {
-    "#": "6",
+    "#": "13",
     "Şirket Kodu": "ENKAI",
     "Kurum": "HSBC",
     "Öneri": "Tut",
@@ -372,7 +156,7 @@
     "Ek": ""
   },
   {
-    "#": "7",
+    "#": "14",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -384,7 +168,7 @@
     "Ek": ""
   },
   {
-    "#": "8",
+    "#": "15",
     "Şirket Kodu": "SELEC",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -396,7 +180,7 @@
     "Ek": ""
   },
   {
-    "#": "9",
+    "#": "16",
     "Şirket Kodu": "MAVI",
     "Kurum": "Trive",
     "Öneri": "Al",
@@ -408,7 +192,7 @@
     "Ek": ""
   },
   {
-    "#": "10",
+    "#": "17",
     "Şirket Kodu": "MAVI",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
@@ -420,7 +204,7 @@
     "Ek": ""
   },
   {
-    "#": "11",
+    "#": "18",
     "Şirket Kodu": "MAVI",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -432,7 +216,7 @@
     "Ek": ""
   },
   {
-    "#": "12",
+    "#": "19",
     "Şirket Kodu": "MAVI",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -444,7 +228,7 @@
     "Ek": ""
   },
   {
-    "#": "13",
+    "#": "20",
     "Şirket Kodu": "THYAO",
     "Kurum": "İnfo",
     "Öneri": "Endekse Paralel",
@@ -456,7 +240,7 @@
     "Ek": ""
   },
   {
-    "#": "14",
+    "#": "21",
     "Şirket Kodu": "TAVHL",
     "Kurum": "İnfo",
     "Öneri": "Endeks Üstü",
@@ -468,7 +252,7 @@
     "Ek": ""
   },
   {
-    "#": "15",
+    "#": "22",
     "Şirket Kodu": "PGSUS",
     "Kurum": "İnfo",
     "Öneri": "Endekse Paralel",
@@ -480,7 +264,7 @@
     "Ek": ""
   },
   {
-    "#": "16",
+    "#": "23",
     "Şirket Kodu": "MAVI",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -492,19 +276,7 @@
     "Ek": ""
   },
   {
-    "#": "17",
-    "Şirket Kodu": "EUPWR",
-    "Kurum": "Ak",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "10 Haziran 2026",
-    "Hedef Fiyat": "149,60",
-    "Son Fiyat": "99,85",
-    "Potansiyel Getiri": "% 49,82",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "18",
+    "#": "24",
     "Şirket Kodu": "GESAN",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -516,7 +288,19 @@
     "Ek": ""
   },
   {
-    "#": "19",
+    "#": "25",
+    "Şirket Kodu": "EUPWR",
+    "Kurum": "Ak",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "10 Haziran 2026",
+    "Hedef Fiyat": "149,60",
+    "Son Fiyat": "99,85",
+    "Potansiyel Getiri": "% 49,82",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "26",
     "Şirket Kodu": "MAVI",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -528,7 +312,7 @@
     "Ek": ""
   },
   {
-    "#": "20",
+    "#": "27",
     "Şirket Kodu": "MAVI",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -540,7 +324,7 @@
     "Ek": ""
   },
   {
-    "#": "21",
+    "#": "28",
     "Şirket Kodu": "MAVI",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -552,7 +336,7 @@
     "Ek": ""
   },
   {
-    "#": "22",
+    "#": "29",
     "Şirket Kodu": "MAVI",
     "Kurum": "Kuv.Türk",
     "Öneri": "Tut",
@@ -564,7 +348,7 @@
     "Ek": ""
   },
   {
-    "#": "23",
+    "#": "30",
     "Şirket Kodu": "MAVI",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -576,7 +360,7 @@
     "Ek": ""
   },
   {
-    "#": "24",
+    "#": "31",
     "Şirket Kodu": "MAVI",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -588,7 +372,7 @@
     "Ek": ""
   },
   {
-    "#": "25",
+    "#": "32",
     "Şirket Kodu": "KLKIM",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -600,7 +384,7 @@
     "Ek": ""
   },
   {
-    "#": "26",
+    "#": "33",
     "Şirket Kodu": "MPARK",
     "Kurum": "İnfo",
     "Öneri": "Endeks Üstü",
@@ -612,31 +396,7 @@
     "Ek": ""
   },
   {
-    "#": "27",
-    "Şirket Kodu": "INDES",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "20,58",
-    "Son Fiyat": "11,35",
-    "Potansiyel Getiri": "% 81,32",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "28",
-    "Şirket Kodu": "YKBNK",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "49,90",
-    "Son Fiyat": "40,46",
-    "Potansiyel Getiri": "% 23,33",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "29",
+    "#": "34",
     "Şirket Kodu": "YATAS",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -648,79 +408,7 @@
     "Ek": ""
   },
   {
-    "#": "30",
-    "Şirket Kodu": "TCELL",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "160,70",
-    "Son Fiyat": "114,90",
-    "Potansiyel Getiri": "% 39,86",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "31",
-    "Şirket Kodu": "MGROS",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "848,00",
-    "Son Fiyat": "699,00",
-    "Potansiyel Getiri": "% 21,32",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "32",
-    "Şirket Kodu": "LOGO",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "252,88",
-    "Son Fiyat": "142,70",
-    "Potansiyel Getiri": "% 77,21",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "33",
-    "Şirket Kodu": "KOTON",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "28,90",
-    "Son Fiyat": "14,93",
-    "Potansiyel Getiri": "% 93,57",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "34",
-    "Şirket Kodu": "HTTBT",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "63,40",
-    "Son Fiyat": "41,76",
-    "Potansiyel Getiri": "% 51,82",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
     "#": "35",
-    "Şirket Kodu": "GWIND",
-    "Kurum": "Marbaş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "53,90",
-    "Son Fiyat": "26,84",
-    "Potansiyel Getiri": "% 100,82",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "36",
     "Şirket Kodu": "FROTO",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -732,19 +420,55 @@
     "Ek": ""
   },
   {
-    "#": "37",
-    "Şirket Kodu": "BORSK",
+    "#": "36",
+    "Şirket Kodu": "MGROS",
     "Kurum": "Marbaş",
     "Öneri": "Al",
     "Güncellenme Tarihi": "09 Haziran 2026",
-    "Hedef Fiyat": "9,04",
-    "Son Fiyat": "6,22",
-    "Potansiyel Getiri": "% 45,34",
+    "Hedef Fiyat": "848,00",
+    "Son Fiyat": "699,00",
+    "Potansiyel Getiri": "% 21,32",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "37",
+    "Şirket Kodu": "YKBNK",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "49,90",
+    "Son Fiyat": "40,46",
+    "Potansiyel Getiri": "% 23,33",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "38",
+    "Şirket Kodu": "LOGO",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "252,88",
+    "Son Fiyat": "142,70",
+    "Potansiyel Getiri": "% 77,21",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "39",
+    "Şirket Kodu": "GWIND",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "53,90",
+    "Son Fiyat": "26,84",
+    "Potansiyel Getiri": "% 100,82",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "40",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -756,7 +480,67 @@
     "Ek": ""
   },
   {
-    "#": "39",
+    "#": "41",
+    "Şirket Kodu": "KOTON",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "28,90",
+    "Son Fiyat": "14,93",
+    "Potansiyel Getiri": "% 93,57",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "42",
+    "Şirket Kodu": "INDES",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "20,58",
+    "Son Fiyat": "11,35",
+    "Potansiyel Getiri": "% 81,32",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "43",
+    "Şirket Kodu": "TCELL",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "160,70",
+    "Son Fiyat": "114,90",
+    "Potansiyel Getiri": "% 39,86",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "44",
+    "Şirket Kodu": "HTTBT",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "63,40",
+    "Son Fiyat": "41,76",
+    "Potansiyel Getiri": "% 51,82",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "45",
+    "Şirket Kodu": "BORSK",
+    "Kurum": "Marbaş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "09 Haziran 2026",
+    "Hedef Fiyat": "9,04",
+    "Son Fiyat": "6,22",
+    "Potansiyel Getiri": "% 45,34",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "46",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Ünlü",
     "Öneri": "Al",
@@ -768,7 +552,7 @@
     "Ek": ""
   },
   {
-    "#": "40",
+    "#": "47",
     "Şirket Kodu": "AVPGY",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -780,43 +564,7 @@
     "Ek": ""
   },
   {
-    "#": "41",
-    "Şirket Kodu": "GARAN",
-    "Kurum": "Pusula",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "05 Haziran 2026",
-    "Hedef Fiyat": "199,00",
-    "Son Fiyat": "141,00",
-    "Potansiyel Getiri": "% 41,13",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "42",
-    "Şirket Kodu": "YKBNK",
-    "Kurum": "Pusula",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "05 Haziran 2026",
-    "Hedef Fiyat": "57,10",
-    "Son Fiyat": "40,46",
-    "Potansiyel Getiri": "% 41,13",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "43",
-    "Şirket Kodu": "VAKBN",
-    "Kurum": "Pusula",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "05 Haziran 2026",
-    "Hedef Fiyat": "50,00",
-    "Son Fiyat": "33,98",
-    "Potansiyel Getiri": "% 47,15",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "44",
+    "#": "48",
     "Şirket Kodu": "TSKB",
     "Kurum": "Pusula",
     "Öneri": "Tut",
@@ -828,7 +576,31 @@
     "Ek": ""
   },
   {
-    "#": "45",
+    "#": "49",
+    "Şirket Kodu": "YKBNK",
+    "Kurum": "Pusula",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "05 Haziran 2026",
+    "Hedef Fiyat": "57,10",
+    "Son Fiyat": "40,46",
+    "Potansiyel Getiri": "% 41,13",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "50",
+    "Şirket Kodu": "VAKBN",
+    "Kurum": "Pusula",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "05 Haziran 2026",
+    "Hedef Fiyat": "50,00",
+    "Son Fiyat": "33,98",
+    "Potansiyel Getiri": "% 47,15",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "51",
     "Şirket Kodu": "QNBTR",
     "Kurum": "Pusula",
     "Öneri": "Tut",
@@ -840,7 +612,7 @@
     "Ek": ""
   },
   {
-    "#": "46",
+    "#": "52",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Pusula",
     "Öneri": "Tut",
@@ -852,31 +624,19 @@
     "Ek": ""
   },
   {
-    "#": "47",
-    "Şirket Kodu": "AKBNK",
-    "Kurum": "Pusula",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "05 Haziran 2026",
-    "Hedef Fiyat": "99,00",
-    "Son Fiyat": "76,75",
-    "Potansiyel Getiri": "% 28,99",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "48",
-    "Şirket Kodu": "ALBRK",
+    "#": "53",
+    "Şirket Kodu": "GARAN",
     "Kurum": "Pusula",
     "Öneri": "Al",
     "Güncellenme Tarihi": "05 Haziran 2026",
-    "Hedef Fiyat": "12,60",
-    "Son Fiyat": "8,83",
-    "Potansiyel Getiri": "% 42,70",
+    "Hedef Fiyat": "199,00",
+    "Son Fiyat": "141,00",
+    "Potansiyel Getiri": "% 41,13",
     "Model Portföy": "",
     "Ek": ""
   },
   {
-    "#": "49",
+    "#": "54",
     "Şirket Kodu": "HALKB",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -888,7 +648,31 @@
     "Ek": ""
   },
   {
-    "#": "50",
+    "#": "55",
+    "Şirket Kodu": "AKBNK",
+    "Kurum": "Pusula",
+    "Öneri": "Tut",
+    "Güncellenme Tarihi": "05 Haziran 2026",
+    "Hedef Fiyat": "99,00",
+    "Son Fiyat": "76,75",
+    "Potansiyel Getiri": "% 28,99",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "56",
+    "Şirket Kodu": "ALBRK",
+    "Kurum": "Pusula",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "05 Haziran 2026",
+    "Hedef Fiyat": "12,60",
+    "Son Fiyat": "8,83",
+    "Potansiyel Getiri": "% 42,70",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "57",
     "Şirket Kodu": "TUPRS",
     "Kurum": "QNB",
     "Öneri": "Endeks Üstü",
@@ -900,7 +684,7 @@
     "Ek": ""
   },
   {
-    "#": "51",
+    "#": "58",
     "Şirket Kodu": "DOAS",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -912,7 +696,7 @@
     "Ek": ""
   },
   {
-    "#": "52",
+    "#": "59",
     "Şirket Kodu": "FROTO",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -924,7 +708,7 @@
     "Ek": ""
   },
   {
-    "#": "53",
+    "#": "60",
     "Şirket Kodu": "FROTO",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -936,7 +720,7 @@
     "Ek": ""
   },
   {
-    "#": "54",
+    "#": "61",
     "Şirket Kodu": "DOAS",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -948,7 +732,7 @@
     "Ek": ""
   },
   {
-    "#": "55",
+    "#": "62",
     "Şirket Kodu": "TOASO",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -960,7 +744,7 @@
     "Ek": ""
   },
   {
-    "#": "56",
+    "#": "63",
     "Şirket Kodu": "TOASO",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -972,7 +756,7 @@
     "Ek": ""
   },
   {
-    "#": "57",
+    "#": "64",
     "Şirket Kodu": "FROTO",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -984,7 +768,7 @@
     "Ek": ""
   },
   {
-    "#": "58",
+    "#": "65",
     "Şirket Kodu": "DOAS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -996,43 +780,7 @@
     "Ek": ""
   },
   {
-    "#": "59",
-    "Şirket Kodu": "MGROS",
-    "Kurum": "Deniz",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "02 Haziran 2026",
-    "Hedef Fiyat": "946,44",
-    "Son Fiyat": "699,00",
-    "Potansiyel Getiri": "% 35,40",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "60",
-    "Şirket Kodu": "AGHOL",
-    "Kurum": "Deniz",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "02 Haziran 2026",
-    "Hedef Fiyat": "50,90",
-    "Son Fiyat": "34,22",
-    "Potansiyel Getiri": "% 48,74",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "61",
-    "Şirket Kodu": "AEFES",
-    "Kurum": "Deniz",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "02 Haziran 2026",
-    "Hedef Fiyat": "29,00",
-    "Son Fiyat": "21,30",
-    "Potansiyel Getiri": "% 36,15",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "62",
+    "#": "66",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -1044,7 +792,43 @@
     "Ek": ""
   },
   {
-    "#": "63",
+    "#": "67",
+    "Şirket Kodu": "MGROS",
+    "Kurum": "Deniz",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "02 Haziran 2026",
+    "Hedef Fiyat": "946,44",
+    "Son Fiyat": "699,00",
+    "Potansiyel Getiri": "% 35,40",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "68",
+    "Şirket Kodu": "AEFES",
+    "Kurum": "Deniz",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "02 Haziran 2026",
+    "Hedef Fiyat": "29,00",
+    "Son Fiyat": "21,30",
+    "Potansiyel Getiri": "% 36,15",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "69",
+    "Şirket Kodu": "AGHOL",
+    "Kurum": "Deniz",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "02 Haziran 2026",
+    "Hedef Fiyat": "50,90",
+    "Son Fiyat": "34,22",
+    "Potansiyel Getiri": "% 48,74",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "70",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -1056,7 +840,7 @@
     "Ek": ""
   },
   {
-    "#": "64",
+    "#": "71",
     "Şirket Kodu": "DOAS",
     "Kurum": "Ünlü",
     "Öneri": "Tut",
@@ -1068,7 +852,7 @@
     "Ek": ""
   },
   {
-    "#": "65",
+    "#": "72",
     "Şirket Kodu": "TOASO",
     "Kurum": "Ünlü",
     "Öneri": "Al",
@@ -1080,7 +864,7 @@
     "Ek": ""
   },
   {
-    "#": "66",
+    "#": "73",
     "Şirket Kodu": "FROTO",
     "Kurum": "Ünlü",
     "Öneri": "Al",
@@ -1092,7 +876,7 @@
     "Ek": ""
   },
   {
-    "#": "67",
+    "#": "74",
     "Şirket Kodu": "SAHOL",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -1104,19 +888,7 @@
     "Ek": ""
   },
   {
-    "#": "68",
-    "Şirket Kodu": "PETKM",
-    "Kurum": "Deniz",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "01 Haziran 2026",
-    "Hedef Fiyat": "21,00",
-    "Son Fiyat": "19,35",
-    "Potansiyel Getiri": "% 8,53",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "69",
+    "#": "75",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -1128,7 +900,7 @@
     "Ek": ""
   },
   {
-    "#": "70",
+    "#": "76",
     "Şirket Kodu": "TRGYO",
     "Kurum": "HSBC",
     "Öneri": "Tut",
@@ -1140,7 +912,7 @@
     "Ek": ""
   },
   {
-    "#": "71",
+    "#": "77",
     "Şirket Kodu": "HRKET",
     "Kurum": "Bulls",
     "Öneri": "Endeks Üstü",
@@ -1152,7 +924,7 @@
     "Ek": ""
   },
   {
-    "#": "72",
+    "#": "78",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Bulls",
     "Öneri": "Endeks Üstü",
@@ -1164,7 +936,7 @@
     "Ek": ""
   },
   {
-    "#": "73",
+    "#": "79",
     "Şirket Kodu": "ASTOR",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -1176,7 +948,7 @@
     "Ek": ""
   },
   {
-    "#": "74",
+    "#": "80",
     "Şirket Kodu": "KOTON",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -1188,7 +960,7 @@
     "Ek": ""
   },
   {
-    "#": "75",
+    "#": "81",
     "Şirket Kodu": "ASTOR",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -1200,7 +972,7 @@
     "Ek": ""
   },
   {
-    "#": "76",
+    "#": "82",
     "Şirket Kodu": "EUPWR",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -1212,7 +984,7 @@
     "Ek": ""
   },
   {
-    "#": "77",
+    "#": "83",
     "Şirket Kodu": "LKMNH",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
@@ -1224,7 +996,7 @@
     "Ek": ""
   },
   {
-    "#": "78",
+    "#": "84",
     "Şirket Kodu": "SOKM",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -1236,7 +1008,7 @@
     "Ek": ""
   },
   {
-    "#": "79",
+    "#": "85",
     "Şirket Kodu": "MGROS",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -1248,7 +1020,7 @@
     "Ek": ""
   },
   {
-    "#": "80",
+    "#": "86",
     "Şirket Kodu": "BIMAS",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -1260,7 +1032,7 @@
     "Ek": ""
   },
   {
-    "#": "81",
+    "#": "87",
     "Şirket Kodu": "GARAN",
     "Kurum": "Goldman Sachs",
     "Öneri": "Al",
@@ -1272,7 +1044,7 @@
     "Ek": ""
   },
   {
-    "#": "82",
+    "#": "88",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Goldman Sachs",
     "Öneri": "Tut",
@@ -1284,7 +1056,7 @@
     "Ek": ""
   },
   {
-    "#": "83",
+    "#": "89",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Goldman Sachs",
     "Öneri": "Tut",
@@ -1296,7 +1068,7 @@
     "Ek": ""
   },
   {
-    "#": "84",
+    "#": "90",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Goldman Sachs",
     "Öneri": "Al",
@@ -1308,7 +1080,7 @@
     "Ek": ""
   },
   {
-    "#": "85",
+    "#": "91",
     "Şirket Kodu": "ASTOR",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -1320,7 +1092,7 @@
     "Ek": ""
   },
   {
-    "#": "86",
+    "#": "92",
     "Şirket Kodu": "LKMNH",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -1332,7 +1104,7 @@
     "Ek": ""
   },
   {
-    "#": "87",
+    "#": "93",
     "Şirket Kodu": "LKMNH",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -1344,7 +1116,7 @@
     "Ek": ""
   },
   {
-    "#": "88",
+    "#": "94",
     "Şirket Kodu": "LKMNH",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -1356,7 +1128,7 @@
     "Ek": ""
   },
   {
-    "#": "89",
+    "#": "95",
     "Şirket Kodu": "ASTOR",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -1368,7 +1140,7 @@
     "Ek": ""
   },
   {
-    "#": "90",
+    "#": "96",
     "Şirket Kodu": "YEOTK",
     "Kurum": "Bulls",
     "Öneri": "Endeks Üstü",
@@ -1380,7 +1152,7 @@
     "Ek": ""
   },
   {
-    "#": "91",
+    "#": "97",
     "Şirket Kodu": "BORSK",
     "Kurum": "Destek",
     "Öneri": "Al",
@@ -1392,7 +1164,7 @@
     "Ek": ""
   },
   {
-    "#": "92",
+    "#": "98",
     "Şirket Kodu": "LILAK",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -1404,7 +1176,7 @@
     "Ek": ""
   },
   {
-    "#": "93",
+    "#": "99",
     "Şirket Kodu": "RGYAS",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -1416,7 +1188,7 @@
     "Ek": ""
   },
   {
-    "#": "94",
+    "#": "100",
     "Şirket Kodu": "KARSN",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1428,7 +1200,7 @@
     "Ek": ""
   },
   {
-    "#": "95",
+    "#": "101",
     "Şirket Kodu": "ULKER",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -1440,7 +1212,7 @@
     "Ek": ""
   },
   {
-    "#": "96",
+    "#": "102",
     "Şirket Kodu": "AKSEN",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -1452,7 +1224,7 @@
     "Ek": ""
   },
   {
-    "#": "97",
+    "#": "103",
     "Şirket Kodu": "KMPUR",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1464,7 +1236,7 @@
     "Ek": ""
   },
   {
-    "#": "98",
+    "#": "104",
     "Şirket Kodu": "SMRTG",
     "Kurum": "Bulls",
     "Öneri": "Al",
@@ -1476,7 +1248,7 @@
     "Ek": ""
   },
   {
-    "#": "99",
+    "#": "105",
     "Şirket Kodu": "ULKER",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1488,7 +1260,7 @@
     "Ek": ""
   },
   {
-    "#": "100",
+    "#": "106",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -1500,7 +1272,7 @@
     "Ek": ""
   },
   {
-    "#": "101",
+    "#": "107",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -1512,7 +1284,7 @@
     "Ek": ""
   },
   {
-    "#": "102",
+    "#": "108",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -1524,7 +1296,7 @@
     "Ek": ""
   },
   {
-    "#": "103",
+    "#": "109",
     "Şirket Kodu": "ULKER",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -1536,7 +1308,7 @@
     "Ek": ""
   },
   {
-    "#": "104",
+    "#": "110",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Ahlatcı",
     "Öneri": "Tut",
@@ -1548,7 +1320,7 @@
     "Ek": ""
   },
   {
-    "#": "105",
+    "#": "111",
     "Şirket Kodu": "TCELL",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1560,7 +1332,7 @@
     "Ek": ""
   },
   {
-    "#": "106",
+    "#": "112",
     "Şirket Kodu": "TCELL",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -1572,7 +1344,7 @@
     "Ek": ""
   },
   {
-    "#": "107",
+    "#": "113",
     "Şirket Kodu": "DOAS",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -1584,7 +1356,7 @@
     "Ek": ""
   },
   {
-    "#": "108",
+    "#": "114",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1596,7 +1368,7 @@
     "Ek": ""
   },
   {
-    "#": "109",
+    "#": "115",
     "Şirket Kodu": "EKGYO",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -1608,7 +1380,7 @@
     "Ek": ""
   },
   {
-    "#": "110",
+    "#": "116",
     "Şirket Kodu": "TCELL",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -1620,7 +1392,7 @@
     "Ek": ""
   },
   {
-    "#": "111",
+    "#": "117",
     "Şirket Kodu": "BIMAS",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -1632,7 +1404,7 @@
     "Ek": ""
   },
   {
-    "#": "112",
+    "#": "118",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -1644,7 +1416,7 @@
     "Ek": ""
   },
   {
-    "#": "113",
+    "#": "119",
     "Şirket Kodu": "ULKER",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -1656,7 +1428,7 @@
     "Ek": ""
   },
   {
-    "#": "114",
+    "#": "120",
     "Şirket Kodu": "TCELL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -1668,7 +1440,7 @@
     "Ek": ""
   },
   {
-    "#": "115",
+    "#": "121",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -1680,7 +1452,7 @@
     "Ek": ""
   },
   {
-    "#": "116",
+    "#": "122",
     "Şirket Kodu": "SELEC",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -1692,7 +1464,7 @@
     "Ek": ""
   },
   {
-    "#": "117",
+    "#": "123",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -1704,7 +1476,7 @@
     "Ek": ""
   },
   {
-    "#": "118",
+    "#": "124",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -1716,7 +1488,7 @@
     "Ek": ""
   },
   {
-    "#": "119",
+    "#": "125",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -1728,7 +1500,7 @@
     "Ek": ""
   },
   {
-    "#": "120",
+    "#": "126",
     "Şirket Kodu": "ASTOR",
     "Kurum": "Global",
     "Öneri": "Al",
@@ -1740,7 +1512,7 @@
     "Ek": ""
   },
   {
-    "#": "121",
+    "#": "127",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Global",
     "Öneri": "Al",
@@ -1752,7 +1524,7 @@
     "Ek": ""
   },
   {
-    "#": "122",
+    "#": "128",
     "Şirket Kodu": "BIMAS",
     "Kurum": "GCM",
     "Öneri": "",
@@ -1764,7 +1536,7 @@
     "Ek": ""
   },
   {
-    "#": "123",
+    "#": "129",
     "Şirket Kodu": "GLRMK",
     "Kurum": "Kuv.Türk",
     "Öneri": "Tut",
@@ -1776,7 +1548,7 @@
     "Ek": ""
   },
   {
-    "#": "124",
+    "#": "130",
     "Şirket Kodu": "EKGYO",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -1788,7 +1560,7 @@
     "Ek": ""
   },
   {
-    "#": "125",
+    "#": "131",
     "Şirket Kodu": "TTKOM",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -1800,7 +1572,7 @@
     "Ek": ""
   },
   {
-    "#": "126",
+    "#": "132",
     "Şirket Kodu": "ENKAI",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -1812,7 +1584,7 @@
     "Ek": ""
   },
   {
-    "#": "127",
+    "#": "133",
     "Şirket Kodu": "DOAS",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -1824,7 +1596,7 @@
     "Ek": ""
   },
   {
-    "#": "128",
+    "#": "134",
     "Şirket Kodu": "BIMAS",
     "Kurum": "İnfo",
     "Öneri": "Endeks Üstü",
@@ -1836,7 +1608,7 @@
     "Ek": ""
   },
   {
-    "#": "129",
+    "#": "135",
     "Şirket Kodu": "LOGO",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -1848,7 +1620,7 @@
     "Ek": ""
   },
   {
-    "#": "130",
+    "#": "136",
     "Şirket Kodu": "EKGYO",
     "Kurum": "GCM",
     "Öneri": "",
@@ -1860,7 +1632,7 @@
     "Ek": ""
   },
   {
-    "#": "131",
+    "#": "137",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -1872,7 +1644,7 @@
     "Ek": ""
   },
   {
-    "#": "132",
+    "#": "138",
     "Şirket Kodu": "ULKER",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -1884,7 +1656,7 @@
     "Ek": ""
   },
   {
-    "#": "133",
+    "#": "139",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -1896,7 +1668,7 @@
     "Ek": ""
   },
   {
-    "#": "134",
+    "#": "140",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -1908,7 +1680,7 @@
     "Ek": ""
   },
   {
-    "#": "135",
+    "#": "141",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -1920,7 +1692,7 @@
     "Ek": ""
   },
   {
-    "#": "136",
+    "#": "142",
     "Şirket Kodu": "TCELL",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -1932,7 +1704,7 @@
     "Ek": ""
   },
   {
-    "#": "137",
+    "#": "143",
     "Şirket Kodu": "SELEC",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -1944,7 +1716,7 @@
     "Ek": ""
   },
   {
-    "#": "138",
+    "#": "144",
     "Şirket Kodu": "TCELL",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -1956,7 +1728,7 @@
     "Ek": ""
   },
   {
-    "#": "139",
+    "#": "145",
     "Şirket Kodu": "VESTL",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -1968,7 +1740,7 @@
     "Ek": ""
   },
   {
-    "#": "140",
+    "#": "146",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -1980,7 +1752,7 @@
     "Ek": ""
   },
   {
-    "#": "141",
+    "#": "147",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -1992,7 +1764,7 @@
     "Ek": ""
   },
   {
-    "#": "142",
+    "#": "148",
     "Şirket Kodu": "TCELL",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -2004,7 +1776,7 @@
     "Ek": ""
   },
   {
-    "#": "143",
+    "#": "149",
     "Şirket Kodu": "TCELL",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -2016,7 +1788,7 @@
     "Ek": ""
   },
   {
-    "#": "144",
+    "#": "150",
     "Şirket Kodu": "PGSUS",
     "Kurum": "GCM",
     "Öneri": "",
@@ -2028,7 +1800,7 @@
     "Ek": ""
   },
   {
-    "#": "145",
+    "#": "151",
     "Şirket Kodu": "OFSYM",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2040,7 +1812,7 @@
     "Ek": ""
   },
   {
-    "#": "146",
+    "#": "152",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2052,7 +1824,7 @@
     "Ek": ""
   },
   {
-    "#": "147",
+    "#": "153",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2064,7 +1836,7 @@
     "Ek": ""
   },
   {
-    "#": "148",
+    "#": "154",
     "Şirket Kodu": "TCELL",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2076,7 +1848,7 @@
     "Ek": ""
   },
   {
-    "#": "149",
+    "#": "155",
     "Şirket Kodu": "TCELL",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -2088,7 +1860,7 @@
     "Ek": ""
   },
   {
-    "#": "150",
+    "#": "156",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -2100,7 +1872,7 @@
     "Ek": ""
   },
   {
-    "#": "151",
+    "#": "157",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -2112,7 +1884,7 @@
     "Ek": ""
   },
   {
-    "#": "152",
+    "#": "158",
     "Şirket Kodu": "SELEC",
     "Kurum": "İş",
     "Öneri": "Tut",
@@ -2124,7 +1896,7 @@
     "Ek": ""
   },
   {
-    "#": "153",
+    "#": "159",
     "Şirket Kodu": "SELEC",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -2136,7 +1908,7 @@
     "Ek": ""
   },
   {
-    "#": "154",
+    "#": "160",
     "Şirket Kodu": "TATEN",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -2148,7 +1920,7 @@
     "Ek": ""
   },
   {
-    "#": "155",
+    "#": "161",
     "Şirket Kodu": "LOGO",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -2160,7 +1932,7 @@
     "Ek": ""
   },
   {
-    "#": "156",
+    "#": "162",
     "Şirket Kodu": "EKGYO",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2172,7 +1944,7 @@
     "Ek": ""
   },
   {
-    "#": "157",
+    "#": "163",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -2184,7 +1956,7 @@
     "Ek": ""
   },
   {
-    "#": "158",
+    "#": "164",
     "Şirket Kodu": "ISMEN",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2196,7 +1968,7 @@
     "Ek": ""
   },
   {
-    "#": "159",
+    "#": "165",
     "Şirket Kodu": "VESTL",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2208,7 +1980,7 @@
     "Ek": ""
   },
   {
-    "#": "160",
+    "#": "166",
     "Şirket Kodu": "PGSUS",
     "Kurum": "Deniz",
     "Öneri": "",
@@ -2220,7 +1992,7 @@
     "Ek": ""
   },
   {
-    "#": "161",
+    "#": "167",
     "Şirket Kodu": "ALARK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2232,7 +2004,7 @@
     "Ek": ""
   },
   {
-    "#": "162",
+    "#": "168",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2244,7 +2016,7 @@
     "Ek": ""
   },
   {
-    "#": "163",
+    "#": "169",
     "Şirket Kodu": "LOGO",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2256,7 +2028,7 @@
     "Ek": ""
   },
   {
-    "#": "164",
+    "#": "170",
     "Şirket Kodu": "ALKIM",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2268,7 +2040,7 @@
     "Ek": ""
   },
   {
-    "#": "165",
+    "#": "171",
     "Şirket Kodu": "ULKER",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2280,7 +2052,7 @@
     "Ek": ""
   },
   {
-    "#": "166",
+    "#": "172",
     "Şirket Kodu": "TCELL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2292,7 +2064,7 @@
     "Ek": ""
   },
   {
-    "#": "167",
+    "#": "173",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2304,7 +2076,7 @@
     "Ek": ""
   },
   {
-    "#": "168",
+    "#": "174",
     "Şirket Kodu": "GLRMK",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -2316,7 +2088,7 @@
     "Ek": ""
   },
   {
-    "#": "169",
+    "#": "175",
     "Şirket Kodu": "GEDZA",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -2328,10 +2100,10 @@
     "Ek": ""
   },
   {
-    "#": "170",
+    "#": "176",
     "Şirket Kodu": "ENKAI",
     "Kurum": "Alnus",
-    "Öneri": "Tut",
+    "Öneri": "Al",
     "Güncellenme Tarihi": "11 Mayıs 2026",
     "Hedef Fiyat": "130,00",
     "Son Fiyat": "96,10",
@@ -2340,7 +2112,7 @@
     "Ek": ""
   },
   {
-    "#": "171",
+    "#": "177",
     "Şirket Kodu": "SISE",
     "Kurum": "Trive",
     "Öneri": "Tut",
@@ -2352,7 +2124,7 @@
     "Ek": ""
   },
   {
-    "#": "172",
+    "#": "178",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Alnus",
     "Öneri": "Tut",
@@ -2364,7 +2136,7 @@
     "Ek": ""
   },
   {
-    "#": "173",
+    "#": "179",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -2376,7 +2148,7 @@
     "Ek": ""
   },
   {
-    "#": "174",
+    "#": "180",
     "Şirket Kodu": "SISE",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -2388,7 +2160,7 @@
     "Ek": ""
   },
   {
-    "#": "175",
+    "#": "181",
     "Şirket Kodu": "THYAO",
     "Kurum": "QNB",
     "Öneri": "Endeks Üstü",
@@ -2400,7 +2172,7 @@
     "Ek": ""
   },
   {
-    "#": "176",
+    "#": "182",
     "Şirket Kodu": "SISE",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -2412,7 +2184,7 @@
     "Ek": ""
   },
   {
-    "#": "177",
+    "#": "183",
     "Şirket Kodu": "KCHOL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -2424,7 +2196,7 @@
     "Ek": ""
   },
   {
-    "#": "178",
+    "#": "184",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -2436,7 +2208,7 @@
     "Ek": ""
   },
   {
-    "#": "179",
+    "#": "185",
     "Şirket Kodu": "ENKAI",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -2448,7 +2220,7 @@
     "Ek": ""
   },
   {
-    "#": "180",
+    "#": "186",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -2460,7 +2232,7 @@
     "Ek": ""
   },
   {
-    "#": "181",
+    "#": "187",
     "Şirket Kodu": "ALBRK",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -2472,7 +2244,7 @@
     "Ek": ""
   },
   {
-    "#": "182",
+    "#": "188",
     "Şirket Kodu": "HALKB",
     "Kurum": "Ak",
     "Öneri": "Endeks Altı",
@@ -2484,7 +2256,7 @@
     "Ek": ""
   },
   {
-    "#": "183",
+    "#": "189",
     "Şirket Kodu": "SISE",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -2496,7 +2268,7 @@
     "Ek": ""
   },
   {
-    "#": "184",
+    "#": "190",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Şeker",
     "Öneri": "Tut",
@@ -2508,7 +2280,7 @@
     "Ek": ""
   },
   {
-    "#": "185",
+    "#": "191",
     "Şirket Kodu": "HALKB",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -2520,7 +2292,7 @@
     "Ek": ""
   },
   {
-    "#": "186",
+    "#": "192",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2532,7 +2304,7 @@
     "Ek": ""
   },
   {
-    "#": "187",
+    "#": "193",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2544,7 +2316,7 @@
     "Ek": ""
   },
   {
-    "#": "188",
+    "#": "194",
     "Şirket Kodu": "KCHOL",
     "Kurum": "GCM",
     "Öneri": "",
@@ -2556,7 +2328,7 @@
     "Ek": ""
   },
   {
-    "#": "189",
+    "#": "195",
     "Şirket Kodu": "ENKAI",
     "Kurum": "GCM",
     "Öneri": "",
@@ -2568,7 +2340,7 @@
     "Ek": ""
   },
   {
-    "#": "190",
+    "#": "196",
     "Şirket Kodu": "ENTRA",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -2580,7 +2352,7 @@
     "Ek": ""
   },
   {
-    "#": "191",
+    "#": "197",
     "Şirket Kodu": "ALBRK",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -2592,7 +2364,7 @@
     "Ek": ""
   },
   {
-    "#": "192",
+    "#": "198",
     "Şirket Kodu": "SISE",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -2604,7 +2376,7 @@
     "Ek": ""
   },
   {
-    "#": "193",
+    "#": "199",
     "Şirket Kodu": "HALKB",
     "Kurum": "İş",
     "Öneri": "Tut",
@@ -2616,7 +2388,7 @@
     "Ek": ""
   },
   {
-    "#": "194",
+    "#": "200",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -2628,7 +2400,7 @@
     "Ek": ""
   },
   {
-    "#": "195",
+    "#": "201",
     "Şirket Kodu": "UNLU",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -2640,7 +2412,7 @@
     "Ek": ""
   },
   {
-    "#": "196",
+    "#": "202",
     "Şirket Kodu": "HALKB",
     "Kurum": "Garanti",
     "Öneri": "Endeks Altı",
@@ -2652,7 +2424,7 @@
     "Ek": ""
   },
   {
-    "#": "197",
+    "#": "203",
     "Şirket Kodu": "MEDTR",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2664,7 +2436,7 @@
     "Ek": ""
   },
   {
-    "#": "198",
+    "#": "204",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -2676,7 +2448,7 @@
     "Ek": ""
   },
   {
-    "#": "199",
+    "#": "205",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -2688,7 +2460,7 @@
     "Ek": ""
   },
   {
-    "#": "200",
+    "#": "206",
     "Şirket Kodu": "ALBRK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2700,7 +2472,7 @@
     "Ek": ""
   },
   {
-    "#": "201",
+    "#": "207",
     "Şirket Kodu": "HTTBT",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2712,7 +2484,7 @@
     "Ek": ""
   },
   {
-    "#": "202",
+    "#": "208",
     "Şirket Kodu": "HALKB",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2724,7 +2496,7 @@
     "Ek": ""
   },
   {
-    "#": "203",
+    "#": "209",
     "Şirket Kodu": "SISE",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -2736,7 +2508,7 @@
     "Ek": ""
   },
   {
-    "#": "204",
+    "#": "210",
     "Şirket Kodu": "HTTBT",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -2748,7 +2520,7 @@
     "Ek": ""
   },
   {
-    "#": "205",
+    "#": "211",
     "Şirket Kodu": "HALKB",
     "Kurum": "Şeker",
     "Öneri": "Tut",
@@ -2760,7 +2532,7 @@
     "Ek": ""
   },
   {
-    "#": "206",
+    "#": "212",
     "Şirket Kodu": "YATAS",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2772,7 +2544,7 @@
     "Ek": ""
   },
   {
-    "#": "207",
+    "#": "213",
     "Şirket Kodu": "ENTRA",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -2784,7 +2556,7 @@
     "Ek": ""
   },
   {
-    "#": "208",
+    "#": "214",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2796,7 +2568,7 @@
     "Ek": ""
   },
   {
-    "#": "209",
+    "#": "215",
     "Şirket Kodu": "AZTEK",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2808,7 +2580,7 @@
     "Ek": ""
   },
   {
-    "#": "210",
+    "#": "216",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -2820,7 +2592,7 @@
     "Ek": ""
   },
   {
-    "#": "211",
+    "#": "217",
     "Şirket Kodu": "ENKAI",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -2832,7 +2604,7 @@
     "Ek": ""
   },
   {
-    "#": "212",
+    "#": "218",
     "Şirket Kodu": "KRDMD",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -2844,7 +2616,7 @@
     "Ek": ""
   },
   {
-    "#": "213",
+    "#": "219",
     "Şirket Kodu": "HALKB",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -2856,7 +2628,7 @@
     "Ek": ""
   },
   {
-    "#": "214",
+    "#": "220",
     "Şirket Kodu": "ENKAI",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -2868,7 +2640,7 @@
     "Ek": ""
   },
   {
-    "#": "215",
+    "#": "221",
     "Şirket Kodu": "KLKIM",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -2880,7 +2652,7 @@
     "Ek": ""
   },
   {
-    "#": "216",
+    "#": "222",
     "Şirket Kodu": "AYGAZ",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -2892,7 +2664,7 @@
     "Ek": ""
   },
   {
-    "#": "217",
+    "#": "223",
     "Şirket Kodu": "TOASO",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -2904,7 +2676,7 @@
     "Ek": ""
   },
   {
-    "#": "218",
+    "#": "224",
     "Şirket Kodu": "OYAKC",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -2916,7 +2688,7 @@
     "Ek": ""
   },
   {
-    "#": "219",
+    "#": "225",
     "Şirket Kodu": "KOTON",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -2928,7 +2700,7 @@
     "Ek": ""
   },
   {
-    "#": "220",
+    "#": "226",
     "Şirket Kodu": "KOTON",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -2940,7 +2712,7 @@
     "Ek": ""
   },
   {
-    "#": "221",
+    "#": "227",
     "Şirket Kodu": "KLKIM",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -2952,7 +2724,7 @@
     "Ek": ""
   },
   {
-    "#": "222",
+    "#": "228",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -2964,7 +2736,7 @@
     "Ek": ""
   },
   {
-    "#": "223",
+    "#": "229",
     "Şirket Kodu": "MPARK",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -2976,7 +2748,7 @@
     "Ek": ""
   },
   {
-    "#": "224",
+    "#": "230",
     "Şirket Kodu": "SOKM",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -2988,7 +2760,7 @@
     "Ek": ""
   },
   {
-    "#": "225",
+    "#": "231",
     "Şirket Kodu": "KOTON",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3000,7 +2772,7 @@
     "Ek": ""
   },
   {
-    "#": "226",
+    "#": "232",
     "Şirket Kodu": "DOHOL",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -3012,7 +2784,7 @@
     "Ek": ""
   },
   {
-    "#": "227",
+    "#": "233",
     "Şirket Kodu": "TNZTP",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -3024,7 +2796,7 @@
     "Ek": ""
   },
   {
-    "#": "228",
+    "#": "234",
     "Şirket Kodu": "AGHOL",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -3036,7 +2808,7 @@
     "Ek": ""
   },
   {
-    "#": "229",
+    "#": "235",
     "Şirket Kodu": "AGHOL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3048,7 +2820,7 @@
     "Ek": ""
   },
   {
-    "#": "230",
+    "#": "236",
     "Şirket Kodu": "OYAKC",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -3060,7 +2832,7 @@
     "Ek": ""
   },
   {
-    "#": "231",
+    "#": "237",
     "Şirket Kodu": "BIZIM",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -3072,7 +2844,7 @@
     "Ek": ""
   },
   {
-    "#": "232",
+    "#": "238",
     "Şirket Kodu": "AKSA",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -3084,7 +2856,7 @@
     "Ek": ""
   },
   {
-    "#": "233",
+    "#": "239",
     "Şirket Kodu": "SOKM",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -3096,7 +2868,7 @@
     "Ek": ""
   },
   {
-    "#": "234",
+    "#": "240",
     "Şirket Kodu": "SOKM",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3108,7 +2880,7 @@
     "Ek": ""
   },
   {
-    "#": "235",
+    "#": "241",
     "Şirket Kodu": "SOKM",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3120,7 +2892,7 @@
     "Ek": ""
   },
   {
-    "#": "236",
+    "#": "242",
     "Şirket Kodu": "DOHOL",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -3132,7 +2904,7 @@
     "Ek": ""
   },
   {
-    "#": "237",
+    "#": "243",
     "Şirket Kodu": "KCAER",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3144,7 +2916,7 @@
     "Ek": ""
   },
   {
-    "#": "238",
+    "#": "244",
     "Şirket Kodu": "AKSA",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3156,7 +2928,7 @@
     "Ek": ""
   },
   {
-    "#": "239",
+    "#": "245",
     "Şirket Kodu": "AKFYE",
     "Kurum": "İş",
     "Öneri": "Tut",
@@ -3168,7 +2940,7 @@
     "Ek": ""
   },
   {
-    "#": "240",
+    "#": "246",
     "Şirket Kodu": "SOKM",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3180,7 +2952,7 @@
     "Ek": ""
   },
   {
-    "#": "241",
+    "#": "247",
     "Şirket Kodu": "BIZIM",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -3192,7 +2964,7 @@
     "Ek": ""
   },
   {
-    "#": "242",
+    "#": "248",
     "Şirket Kodu": "DOHOL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3204,7 +2976,7 @@
     "Ek": ""
   },
   {
-    "#": "243",
+    "#": "249",
     "Şirket Kodu": "OYAKC",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3216,7 +2988,7 @@
     "Ek": ""
   },
   {
-    "#": "244",
+    "#": "250",
     "Şirket Kodu": "KLKIM",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3228,7 +3000,7 @@
     "Ek": ""
   },
   {
-    "#": "245",
+    "#": "251",
     "Şirket Kodu": "PETKM",
     "Kurum": "Şeker",
     "Öneri": "Tut",
@@ -3240,7 +3012,7 @@
     "Ek": ""
   },
   {
-    "#": "246",
+    "#": "252",
     "Şirket Kodu": "OYAKC",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -3252,7 +3024,7 @@
     "Ek": ""
   },
   {
-    "#": "247",
+    "#": "253",
     "Şirket Kodu": "SOKM",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -3264,7 +3036,7 @@
     "Ek": ""
   },
   {
-    "#": "248",
+    "#": "254",
     "Şirket Kodu": "OYAKC",
     "Kurum": "GCM",
     "Öneri": "",
@@ -3276,7 +3048,7 @@
     "Ek": ""
   },
   {
-    "#": "249",
+    "#": "255",
     "Şirket Kodu": "ASELS",
     "Kurum": "HSBC",
     "Öneri": "",
@@ -3288,7 +3060,7 @@
     "Ek": ""
   },
   {
-    "#": "250",
+    "#": "256",
     "Şirket Kodu": "MPARK",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3300,7 +3072,7 @@
     "Ek": ""
   },
   {
-    "#": "251",
+    "#": "257",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3312,7 +3084,7 @@
     "Ek": ""
   },
   {
-    "#": "252",
+    "#": "258",
     "Şirket Kodu": "RGYAS",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -3324,7 +3096,7 @@
     "Ek": ""
   },
   {
-    "#": "253",
+    "#": "259",
     "Şirket Kodu": "FROTO",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -3336,19 +3108,7 @@
     "Ek": ""
   },
   {
-    "#": "254",
-    "Şirket Kodu": "TUPRS",
-    "Kurum": "Ziraat",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "07 Mayıs 2026",
-    "Hedef Fiyat": "368,00",
-    "Son Fiyat": "231,90",
-    "Potansiyel Getiri": "% 58,69",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "255",
+    "#": "260",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Trive",
     "Öneri": "Tut",
@@ -3360,7 +3120,7 @@
     "Ek": ""
   },
   {
-    "#": "256",
+    "#": "261",
     "Şirket Kodu": "PETKM",
     "Kurum": "Alnus",
     "Öneri": "Tut",
@@ -3372,7 +3132,7 @@
     "Ek": ""
   },
   {
-    "#": "257",
+    "#": "262",
     "Şirket Kodu": "FROTO",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -3384,7 +3144,7 @@
     "Ek": ""
   },
   {
-    "#": "258",
+    "#": "263",
     "Şirket Kodu": "MPARK",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3396,7 +3156,7 @@
     "Ek": ""
   },
   {
-    "#": "259",
+    "#": "264",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -3408,7 +3168,7 @@
     "Ek": ""
   },
   {
-    "#": "260",
+    "#": "265",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3420,7 +3180,7 @@
     "Ek": ""
   },
   {
-    "#": "261",
+    "#": "266",
     "Şirket Kodu": "RGYAS",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3432,7 +3192,7 @@
     "Ek": ""
   },
   {
-    "#": "262",
+    "#": "267",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -3444,7 +3204,7 @@
     "Ek": ""
   },
   {
-    "#": "263",
+    "#": "268",
     "Şirket Kodu": "AYGAZ",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -3456,7 +3216,7 @@
     "Ek": ""
   },
   {
-    "#": "264",
+    "#": "269",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -3468,19 +3228,7 @@
     "Ek": ""
   },
   {
-    "#": "265",
-    "Şirket Kodu": "TUPRS",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "07 Mayıs 2026",
-    "Hedef Fiyat": "356,40",
-    "Son Fiyat": "231,90",
-    "Potansiyel Getiri": "% 53,69",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "266",
+    "#": "270",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -3492,7 +3240,7 @@
     "Ek": ""
   },
   {
-    "#": "267",
+    "#": "271",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -3504,7 +3252,7 @@
     "Ek": ""
   },
   {
-    "#": "268",
+    "#": "272",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -3516,7 +3264,7 @@
     "Ek": ""
   },
   {
-    "#": "269",
+    "#": "273",
     "Şirket Kodu": "SAHOL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3528,7 +3276,7 @@
     "Ek": ""
   },
   {
-    "#": "270",
+    "#": "274",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -3540,7 +3288,7 @@
     "Ek": ""
   },
   {
-    "#": "271",
+    "#": "275",
     "Şirket Kodu": "SAHOL",
     "Kurum": "GCM",
     "Öneri": "",
@@ -3552,7 +3300,7 @@
     "Ek": ""
   },
   {
-    "#": "272",
+    "#": "276",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -3564,7 +3312,7 @@
     "Ek": ""
   },
   {
-    "#": "273",
+    "#": "277",
     "Şirket Kodu": "MGROS",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -3576,7 +3324,7 @@
     "Ek": ""
   },
   {
-    "#": "274",
+    "#": "278",
     "Şirket Kodu": "TTKOM",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3588,7 +3336,7 @@
     "Ek": ""
   },
   {
-    "#": "275",
+    "#": "279",
     "Şirket Kodu": "TUPRS",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3600,7 +3348,7 @@
     "Ek": ""
   },
   {
-    "#": "276",
+    "#": "280",
     "Şirket Kodu": "ARMGD",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -3612,7 +3360,7 @@
     "Ek": ""
   },
   {
-    "#": "277",
+    "#": "281",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -3624,7 +3372,7 @@
     "Ek": ""
   },
   {
-    "#": "278",
+    "#": "282",
     "Şirket Kodu": "AYGAZ",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3636,7 +3384,7 @@
     "Ek": ""
   },
   {
-    "#": "279",
+    "#": "283",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -3648,7 +3396,7 @@
     "Ek": ""
   },
   {
-    "#": "280",
+    "#": "284",
     "Şirket Kodu": "SAHOL",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -3660,7 +3408,7 @@
     "Ek": ""
   },
   {
-    "#": "281",
+    "#": "285",
     "Şirket Kodu": "SAHOL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3672,7 +3420,7 @@
     "Ek": ""
   },
   {
-    "#": "282",
+    "#": "286",
     "Şirket Kodu": "MPARK",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -3684,7 +3432,7 @@
     "Ek": ""
   },
   {
-    "#": "283",
+    "#": "287",
     "Şirket Kodu": "MPARK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3696,7 +3444,7 @@
     "Ek": ""
   },
   {
-    "#": "284",
+    "#": "288",
     "Şirket Kodu": "MPARK",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -3708,7 +3456,7 @@
     "Ek": ""
   },
   {
-    "#": "285",
+    "#": "289",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -3720,7 +3468,7 @@
     "Ek": ""
   },
   {
-    "#": "286",
+    "#": "290",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -3732,7 +3480,7 @@
     "Ek": ""
   },
   {
-    "#": "287",
+    "#": "291",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -3744,7 +3492,7 @@
     "Ek": ""
   },
   {
-    "#": "288",
+    "#": "292",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -3756,7 +3504,7 @@
     "Ek": ""
   },
   {
-    "#": "289",
+    "#": "293",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -3768,7 +3516,7 @@
     "Ek": ""
   },
   {
-    "#": "290",
+    "#": "294",
     "Şirket Kodu": "AYDEM",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3780,7 +3528,7 @@
     "Ek": ""
   },
   {
-    "#": "291",
+    "#": "295",
     "Şirket Kodu": "VAKBN",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -3792,7 +3540,7 @@
     "Ek": ""
   },
   {
-    "#": "292",
+    "#": "296",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -3804,7 +3552,7 @@
     "Ek": ""
   },
   {
-    "#": "293",
+    "#": "297",
     "Şirket Kodu": "SAHOL",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -3816,7 +3564,7 @@
     "Ek": ""
   },
   {
-    "#": "294",
+    "#": "298",
     "Şirket Kodu": "VAKBN",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3828,7 +3576,7 @@
     "Ek": ""
   },
   {
-    "#": "295",
+    "#": "299",
     "Şirket Kodu": "TTKOM",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -3840,7 +3588,7 @@
     "Ek": ""
   },
   {
-    "#": "296",
+    "#": "300",
     "Şirket Kodu": "MPARK",
     "Kurum": "Fiba",
     "Öneri": "Al",
@@ -3852,7 +3600,7 @@
     "Ek": ""
   },
   {
-    "#": "297",
+    "#": "301",
     "Şirket Kodu": "FROTO",
     "Kurum": "İnfo",
     "Öneri": "Endeks Üstü",
@@ -3864,7 +3612,7 @@
     "Ek": ""
   },
   {
-    "#": "298",
+    "#": "302",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -3876,7 +3624,7 @@
     "Ek": ""
   },
   {
-    "#": "299",
+    "#": "303",
     "Şirket Kodu": "GWIND",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -3888,7 +3636,7 @@
     "Ek": ""
   },
   {
-    "#": "300",
+    "#": "304",
     "Şirket Kodu": "FROTO",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -3900,19 +3648,7 @@
     "Ek": ""
   },
   {
-    "#": "301",
-    "Şirket Kodu": "TOASO",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "06 Mayıs 2026",
-    "Hedef Fiyat": "472,61",
-    "Son Fiyat": "315,25",
-    "Potansiyel Getiri": "% 49,92",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "302",
+    "#": "305",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3924,7 +3660,7 @@
     "Ek": ""
   },
   {
-    "#": "303",
+    "#": "306",
     "Şirket Kodu": "FROTO",
     "Kurum": "Trive",
     "Öneri": "Al",
@@ -3936,7 +3672,7 @@
     "Ek": ""
   },
   {
-    "#": "304",
+    "#": "307",
     "Şirket Kodu": "FROTO",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -3948,7 +3684,7 @@
     "Ek": ""
   },
   {
-    "#": "305",
+    "#": "308",
     "Şirket Kodu": "MGROS",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -3960,7 +3696,7 @@
     "Ek": ""
   },
   {
-    "#": "306",
+    "#": "309",
     "Şirket Kodu": "MGROS",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -3972,7 +3708,7 @@
     "Ek": ""
   },
   {
-    "#": "307",
+    "#": "310",
     "Şirket Kodu": "AEFES",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -3984,7 +3720,7 @@
     "Ek": ""
   },
   {
-    "#": "308",
+    "#": "311",
     "Şirket Kodu": "AEFES",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -3996,7 +3732,7 @@
     "Ek": ""
   },
   {
-    "#": "309",
+    "#": "312",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4008,7 +3744,7 @@
     "Ek": ""
   },
   {
-    "#": "310",
+    "#": "313",
     "Şirket Kodu": "OTKAR",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4020,7 +3756,7 @@
     "Ek": ""
   },
   {
-    "#": "311",
+    "#": "314",
     "Şirket Kodu": "MGROS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4032,7 +3768,7 @@
     "Ek": ""
   },
   {
-    "#": "312",
+    "#": "315",
     "Şirket Kodu": "MGROS",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4044,7 +3780,7 @@
     "Ek": ""
   },
   {
-    "#": "313",
+    "#": "316",
     "Şirket Kodu": "MGROS",
     "Kurum": "Trive",
     "Öneri": "Al",
@@ -4056,7 +3792,7 @@
     "Ek": ""
   },
   {
-    "#": "314",
+    "#": "317",
     "Şirket Kodu": "MGROS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -4068,7 +3804,7 @@
     "Ek": ""
   },
   {
-    "#": "315",
+    "#": "318",
     "Şirket Kodu": "TOASO",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4080,7 +3816,7 @@
     "Ek": ""
   },
   {
-    "#": "316",
+    "#": "319",
     "Şirket Kodu": "FROTO",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4092,7 +3828,7 @@
     "Ek": ""
   },
   {
-    "#": "317",
+    "#": "320",
     "Şirket Kodu": "OTKAR",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -4104,7 +3840,7 @@
     "Ek": ""
   },
   {
-    "#": "318",
+    "#": "321",
     "Şirket Kodu": "AEFES",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4116,7 +3852,7 @@
     "Ek": ""
   },
   {
-    "#": "319",
+    "#": "322",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4128,7 +3864,7 @@
     "Ek": ""
   },
   {
-    "#": "320",
+    "#": "323",
     "Şirket Kodu": "FROTO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4140,7 +3876,7 @@
     "Ek": ""
   },
   {
-    "#": "321",
+    "#": "324",
     "Şirket Kodu": "TOASO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4152,7 +3888,7 @@
     "Ek": ""
   },
   {
-    "#": "322",
+    "#": "325",
     "Şirket Kodu": "BRISA",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -4164,7 +3900,7 @@
     "Ek": ""
   },
   {
-    "#": "323",
+    "#": "326",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -4176,7 +3912,7 @@
     "Ek": ""
   },
   {
-    "#": "324",
+    "#": "327",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4188,7 +3924,7 @@
     "Ek": ""
   },
   {
-    "#": "325",
+    "#": "328",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -4200,7 +3936,7 @@
     "Ek": ""
   },
   {
-    "#": "326",
+    "#": "329",
     "Şirket Kodu": "OTKAR",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -4212,7 +3948,7 @@
     "Ek": ""
   },
   {
-    "#": "327",
+    "#": "330",
     "Şirket Kodu": "TOASO",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -4224,7 +3960,7 @@
     "Ek": ""
   },
   {
-    "#": "328",
+    "#": "331",
     "Şirket Kodu": "FROTO",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4236,7 +3972,7 @@
     "Ek": ""
   },
   {
-    "#": "329",
+    "#": "332",
     "Şirket Kodu": "TOASO",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4248,7 +3984,7 @@
     "Ek": ""
   },
   {
-    "#": "330",
+    "#": "333",
     "Şirket Kodu": "HEKTS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -4260,7 +3996,7 @@
     "Ek": ""
   },
   {
-    "#": "331",
+    "#": "334",
     "Şirket Kodu": "FROTO",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -4272,7 +4008,7 @@
     "Ek": ""
   },
   {
-    "#": "332",
+    "#": "335",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -4284,7 +4020,7 @@
     "Ek": ""
   },
   {
-    "#": "333",
+    "#": "336",
     "Şirket Kodu": "OTKAR",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -4296,7 +4032,7 @@
     "Ek": ""
   },
   {
-    "#": "334",
+    "#": "337",
     "Şirket Kodu": "TOASO",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -4308,7 +4044,7 @@
     "Ek": ""
   },
   {
-    "#": "335",
+    "#": "338",
     "Şirket Kodu": "MGROS",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4320,7 +4056,7 @@
     "Ek": ""
   },
   {
-    "#": "336",
+    "#": "339",
     "Şirket Kodu": "MGROS",
     "Kurum": "İnfo",
     "Öneri": "Endeks Üstü",
@@ -4332,7 +4068,7 @@
     "Ek": ""
   },
   {
-    "#": "337",
+    "#": "340",
     "Şirket Kodu": "ISCTR",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -4344,7 +4080,7 @@
     "Ek": ""
   },
   {
-    "#": "338",
+    "#": "341",
     "Şirket Kodu": "AVPGY",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -4356,7 +4092,7 @@
     "Ek": ""
   },
   {
-    "#": "339",
+    "#": "342",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4368,7 +4104,7 @@
     "Ek": ""
   },
   {
-    "#": "340",
+    "#": "343",
     "Şirket Kodu": "KAREL",
     "Kurum": "Colendi",
     "Öneri": "",
@@ -4380,7 +4116,7 @@
     "Ek": ""
   },
   {
-    "#": "341",
+    "#": "344",
     "Şirket Kodu": "GWIND",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
@@ -4392,7 +4128,7 @@
     "Ek": ""
   },
   {
-    "#": "342",
+    "#": "345",
     "Şirket Kodu": "ENJSA",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
@@ -4404,7 +4140,7 @@
     "Ek": ""
   },
   {
-    "#": "343",
+    "#": "346",
     "Şirket Kodu": "CCOLA",
     "Kurum": "GCM",
     "Öneri": "",
@@ -4416,7 +4152,7 @@
     "Ek": ""
   },
   {
-    "#": "344",
+    "#": "347",
     "Şirket Kodu": "ENJSA",
     "Kurum": "Deniz",
     "Öneri": "",
@@ -4428,7 +4164,7 @@
     "Ek": ""
   },
   {
-    "#": "345",
+    "#": "348",
     "Şirket Kodu": "ENJSA",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -4440,7 +4176,7 @@
     "Ek": ""
   },
   {
-    "#": "346",
+    "#": "349",
     "Şirket Kodu": "ENJSA",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4452,7 +4188,7 @@
     "Ek": ""
   },
   {
-    "#": "347",
+    "#": "350",
     "Şirket Kodu": "KAREL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -4464,7 +4200,7 @@
     "Ek": ""
   },
   {
-    "#": "348",
+    "#": "351",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -4476,7 +4212,7 @@
     "Ek": ""
   },
   {
-    "#": "349",
+    "#": "352",
     "Şirket Kodu": "CCOLA",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4488,7 +4224,7 @@
     "Ek": ""
   },
   {
-    "#": "350",
+    "#": "353",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4500,7 +4236,7 @@
     "Ek": ""
   },
   {
-    "#": "351",
+    "#": "354",
     "Şirket Kodu": "CCOLA",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -4512,7 +4248,7 @@
     "Ek": ""
   },
   {
-    "#": "352",
+    "#": "355",
     "Şirket Kodu": "ENJSA",
     "Kurum": "GCM",
     "Öneri": "",
@@ -4524,7 +4260,7 @@
     "Ek": ""
   },
   {
-    "#": "353",
+    "#": "356",
     "Şirket Kodu": "LMKDC",
     "Kurum": "Alnus",
     "Öneri": "Tut",
@@ -4536,7 +4272,7 @@
     "Ek": ""
   },
   {
-    "#": "354",
+    "#": "357",
     "Şirket Kodu": "ANSGR",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4548,7 +4284,7 @@
     "Ek": ""
   },
   {
-    "#": "355",
+    "#": "358",
     "Şirket Kodu": "VESBE",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4560,7 +4296,7 @@
     "Ek": ""
   },
   {
-    "#": "356",
+    "#": "359",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Tacirler",
     "Öneri": "Tut",
@@ -4572,7 +4308,7 @@
     "Ek": ""
   },
   {
-    "#": "357",
+    "#": "360",
     "Şirket Kodu": "GWIND",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4584,7 +4320,7 @@
     "Ek": ""
   },
   {
-    "#": "358",
+    "#": "361",
     "Şirket Kodu": "THYAO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4596,7 +4332,7 @@
     "Ek": ""
   },
   {
-    "#": "359",
+    "#": "362",
     "Şirket Kodu": "AVPGY",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4608,7 +4344,7 @@
     "Ek": ""
   },
   {
-    "#": "360",
+    "#": "363",
     "Şirket Kodu": "VESBE",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -4620,7 +4356,7 @@
     "Ek": ""
   },
   {
-    "#": "361",
+    "#": "364",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Tera",
     "Öneri": "Endekse Paralel",
@@ -4632,7 +4368,7 @@
     "Ek": ""
   },
   {
-    "#": "362",
+    "#": "365",
     "Şirket Kodu": "EBEBK",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -4644,7 +4380,7 @@
     "Ek": ""
   },
   {
-    "#": "363",
+    "#": "366",
     "Şirket Kodu": "GWIND",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -4656,7 +4392,7 @@
     "Ek": ""
   },
   {
-    "#": "364",
+    "#": "367",
     "Şirket Kodu": "GWIND",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4668,7 +4404,7 @@
     "Ek": ""
   },
   {
-    "#": "365",
+    "#": "368",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -4680,7 +4416,7 @@
     "Ek": ""
   },
   {
-    "#": "366",
+    "#": "369",
     "Şirket Kodu": "GARAN",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4692,7 +4428,7 @@
     "Ek": ""
   },
   {
-    "#": "367",
+    "#": "370",
     "Şirket Kodu": "THYAO",
     "Kurum": "Trive",
     "Öneri": "Al",
@@ -4704,7 +4440,7 @@
     "Ek": ""
   },
   {
-    "#": "368",
+    "#": "371",
     "Şirket Kodu": "THYAO",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4716,7 +4452,7 @@
     "Ek": ""
   },
   {
-    "#": "369",
+    "#": "372",
     "Şirket Kodu": "BIGCH",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -4728,7 +4464,7 @@
     "Ek": ""
   },
   {
-    "#": "370",
+    "#": "373",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Alnus",
     "Öneri": "Tut",
@@ -4740,7 +4476,7 @@
     "Ek": ""
   },
   {
-    "#": "371",
+    "#": "374",
     "Şirket Kodu": "GARAN",
     "Kurum": "ICBC",
     "Öneri": "Al",
@@ -4752,7 +4488,7 @@
     "Ek": ""
   },
   {
-    "#": "372",
+    "#": "375",
     "Şirket Kodu": "EREGL",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4764,7 +4500,7 @@
     "Ek": ""
   },
   {
-    "#": "373",
+    "#": "376",
     "Şirket Kodu": "ISDMR",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4776,7 +4512,7 @@
     "Ek": ""
   },
   {
-    "#": "374",
+    "#": "377",
     "Şirket Kodu": "GARAN",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4788,7 +4524,7 @@
     "Ek": ""
   },
   {
-    "#": "375",
+    "#": "378",
     "Şirket Kodu": "ASELS",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4800,7 +4536,7 @@
     "Ek": ""
   },
   {
-    "#": "376",
+    "#": "379",
     "Şirket Kodu": "EREGL",
     "Kurum": "Ünlü",
     "Öneri": "Al",
@@ -4812,7 +4548,7 @@
     "Ek": ""
   },
   {
-    "#": "377",
+    "#": "380",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -4824,7 +4560,7 @@
     "Ek": ""
   },
   {
-    "#": "378",
+    "#": "381",
     "Şirket Kodu": "EBEBK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -4836,7 +4572,7 @@
     "Ek": ""
   },
   {
-    "#": "379",
+    "#": "382",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -4848,7 +4584,7 @@
     "Ek": ""
   },
   {
-    "#": "380",
+    "#": "383",
     "Şirket Kodu": "GARAN",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4860,7 +4596,7 @@
     "Ek": ""
   },
   {
-    "#": "381",
+    "#": "384",
     "Şirket Kodu": "EREGL",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -4872,7 +4608,7 @@
     "Ek": ""
   },
   {
-    "#": "382",
+    "#": "385",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4884,7 +4620,7 @@
     "Ek": ""
   },
   {
-    "#": "383",
+    "#": "386",
     "Şirket Kodu": "THYAO",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -4896,7 +4632,7 @@
     "Ek": ""
   },
   {
-    "#": "384",
+    "#": "387",
     "Şirket Kodu": "THYAO",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -4908,7 +4644,7 @@
     "Ek": ""
   },
   {
-    "#": "385",
+    "#": "388",
     "Şirket Kodu": "ANSGR",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -4920,7 +4656,7 @@
     "Ek": ""
   },
   {
-    "#": "386",
+    "#": "389",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Ahlatcı",
     "Öneri": "Tut",
@@ -4932,7 +4668,7 @@
     "Ek": ""
   },
   {
-    "#": "387",
+    "#": "390",
     "Şirket Kodu": "THYAO",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4944,7 +4680,7 @@
     "Ek": ""
   },
   {
-    "#": "388",
+    "#": "391",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4956,7 +4692,7 @@
     "Ek": ""
   },
   {
-    "#": "389",
+    "#": "392",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4968,7 +4704,7 @@
     "Ek": ""
   },
   {
-    "#": "390",
+    "#": "393",
     "Şirket Kodu": "AGESA",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -4980,7 +4716,7 @@
     "Ek": ""
   },
   {
-    "#": "391",
+    "#": "394",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -4992,7 +4728,7 @@
     "Ek": ""
   },
   {
-    "#": "392",
+    "#": "395",
     "Şirket Kodu": "GARAN",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -5004,7 +4740,7 @@
     "Ek": ""
   },
   {
-    "#": "393",
+    "#": "396",
     "Şirket Kodu": "TSKB",
     "Kurum": "GCM",
     "Öneri": "",
@@ -5016,7 +4752,7 @@
     "Ek": ""
   },
   {
-    "#": "394",
+    "#": "397",
     "Şirket Kodu": "ASELS",
     "Kurum": "QNB",
     "Öneri": "Endeks Üstü",
@@ -5028,7 +4764,7 @@
     "Ek": ""
   },
   {
-    "#": "395",
+    "#": "398",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Kuv.Türk",
     "Öneri": "Al",
@@ -5040,7 +4776,7 @@
     "Ek": ""
   },
   {
-    "#": "396",
+    "#": "399",
     "Şirket Kodu": "AGESA",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -5052,7 +4788,7 @@
     "Ek": ""
   },
   {
-    "#": "397",
+    "#": "400",
     "Şirket Kodu": "GARAN",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -5064,7 +4800,7 @@
     "Ek": ""
   },
   {
-    "#": "398",
+    "#": "401",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -5076,7 +4812,7 @@
     "Ek": ""
   },
   {
-    "#": "399",
+    "#": "402",
     "Şirket Kodu": "TKNSA",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -5088,7 +4824,7 @@
     "Ek": ""
   },
   {
-    "#": "400",
+    "#": "403",
     "Şirket Kodu": "ANSGR",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5100,7 +4836,7 @@
     "Ek": ""
   },
   {
-    "#": "401",
+    "#": "404",
     "Şirket Kodu": "TSKB",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5112,7 +4848,7 @@
     "Ek": ""
   },
   {
-    "#": "402",
+    "#": "405",
     "Şirket Kodu": "THYAO",
     "Kurum": "TEB Yat.",
     "Öneri": "Endeks Üstü",
@@ -5124,7 +4860,7 @@
     "Ek": ""
   },
   {
-    "#": "403",
+    "#": "406",
     "Şirket Kodu": "KORDS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -5136,7 +4872,7 @@
     "Ek": ""
   },
   {
-    "#": "404",
+    "#": "407",
     "Şirket Kodu": "ANSGR",
     "Kurum": "TEB Yat.",
     "Öneri": "Endeks Üstü",
@@ -5148,7 +4884,7 @@
     "Ek": ""
   },
   {
-    "#": "405",
+    "#": "408",
     "Şirket Kodu": "TURSG",
     "Kurum": "TEB Yat.",
     "Öneri": "Endeks Üstü",
@@ -5160,7 +4896,7 @@
     "Ek": ""
   },
   {
-    "#": "406",
+    "#": "409",
     "Şirket Kodu": "EREGL",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -5172,7 +4908,7 @@
     "Ek": ""
   },
   {
-    "#": "407",
+    "#": "410",
     "Şirket Kodu": "THYAO",
     "Kurum": "GCM",
     "Öneri": "",
@@ -5184,7 +4920,7 @@
     "Ek": ""
   },
   {
-    "#": "408",
+    "#": "411",
     "Şirket Kodu": "AKCNS",
     "Kurum": "İş",
     "Öneri": "Tut",
@@ -5196,7 +4932,7 @@
     "Ek": ""
   },
   {
-    "#": "409",
+    "#": "412",
     "Şirket Kodu": "CIMSA",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5208,7 +4944,7 @@
     "Ek": ""
   },
   {
-    "#": "410",
+    "#": "413",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -5220,7 +4956,7 @@
     "Ek": ""
   },
   {
-    "#": "411",
+    "#": "414",
     "Şirket Kodu": "ANSGR",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -5232,7 +4968,7 @@
     "Ek": ""
   },
   {
-    "#": "412",
+    "#": "415",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5244,7 +4980,7 @@
     "Ek": ""
   },
   {
-    "#": "413",
+    "#": "416",
     "Şirket Kodu": "THYAO",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -5256,7 +4992,7 @@
     "Ek": ""
   },
   {
-    "#": "414",
+    "#": "417",
     "Şirket Kodu": "THYAO",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -5268,7 +5004,7 @@
     "Ek": ""
   },
   {
-    "#": "415",
+    "#": "418",
     "Şirket Kodu": "ISGYO",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -5280,7 +5016,7 @@
     "Ek": ""
   },
   {
-    "#": "416",
+    "#": "419",
     "Şirket Kodu": "YKBNK",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5292,7 +5028,7 @@
     "Ek": ""
   },
   {
-    "#": "417",
+    "#": "420",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5304,7 +5040,7 @@
     "Ek": ""
   },
   {
-    "#": "418",
+    "#": "421",
     "Şirket Kodu": "GARAN",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5316,7 +5052,7 @@
     "Ek": ""
   },
   {
-    "#": "419",
+    "#": "422",
     "Şirket Kodu": "THYAO",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5328,7 +5064,7 @@
     "Ek": ""
   },
   {
-    "#": "420",
+    "#": "423",
     "Şirket Kodu": "THYAO",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -5340,7 +5076,7 @@
     "Ek": ""
   },
   {
-    "#": "421",
+    "#": "424",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -5352,7 +5088,7 @@
     "Ek": ""
   },
   {
-    "#": "422",
+    "#": "425",
     "Şirket Kodu": "TSKB",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -5364,7 +5100,7 @@
     "Ek": ""
   },
   {
-    "#": "423",
+    "#": "426",
     "Şirket Kodu": "ISGYO",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -5376,7 +5112,7 @@
     "Ek": ""
   },
   {
-    "#": "424",
+    "#": "427",
     "Şirket Kodu": "GARAN",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -5388,7 +5124,7 @@
     "Ek": ""
   },
   {
-    "#": "425",
+    "#": "428",
     "Şirket Kodu": "LILAK",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -5400,7 +5136,7 @@
     "Ek": ""
   },
   {
-    "#": "426",
+    "#": "429",
     "Şirket Kodu": "AGESA",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -5412,7 +5148,7 @@
     "Ek": ""
   },
   {
-    "#": "427",
+    "#": "430",
     "Şirket Kodu": "ANSGR",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -5424,7 +5160,7 @@
     "Ek": ""
   },
   {
-    "#": "428",
+    "#": "431",
     "Şirket Kodu": "GARAN",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -5436,7 +5172,7 @@
     "Ek": ""
   },
   {
-    "#": "429",
+    "#": "432",
     "Şirket Kodu": "TSKB",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -5448,7 +5184,7 @@
     "Ek": ""
   },
   {
-    "#": "430",
+    "#": "433",
     "Şirket Kodu": "CIMSA",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -5460,7 +5196,7 @@
     "Ek": ""
   },
   {
-    "#": "431",
+    "#": "434",
     "Şirket Kodu": "TKNSA",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -5472,7 +5208,7 @@
     "Ek": ""
   },
   {
-    "#": "432",
+    "#": "435",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Vakıf",
     "Öneri": "Tut",
@@ -5484,7 +5220,7 @@
     "Ek": ""
   },
   {
-    "#": "433",
+    "#": "436",
     "Şirket Kodu": "GARAN",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5496,7 +5232,7 @@
     "Ek": ""
   },
   {
-    "#": "434",
+    "#": "437",
     "Şirket Kodu": "TSKB",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5508,7 +5244,7 @@
     "Ek": ""
   },
   {
-    "#": "435",
+    "#": "438",
     "Şirket Kodu": "AGESA",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -5520,7 +5256,7 @@
     "Ek": ""
   },
   {
-    "#": "436",
+    "#": "439",
     "Şirket Kodu": "GARAN",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -5532,7 +5268,7 @@
     "Ek": ""
   },
   {
-    "#": "437",
+    "#": "440",
     "Şirket Kodu": "AGESA",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -5544,7 +5280,7 @@
     "Ek": ""
   },
   {
-    "#": "438",
+    "#": "441",
     "Şirket Kodu": "THYAO",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -5556,7 +5292,7 @@
     "Ek": ""
   },
   {
-    "#": "439",
+    "#": "442",
     "Şirket Kodu": "ANSGR",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -5568,7 +5304,7 @@
     "Ek": ""
   },
   {
-    "#": "440",
+    "#": "443",
     "Şirket Kodu": "TTRAK",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -5580,7 +5316,7 @@
     "Ek": ""
   },
   {
-    "#": "441",
+    "#": "444",
     "Şirket Kodu": "YKBNK",
     "Kurum": "ICBC",
     "Öneri": "Al",
@@ -5592,7 +5328,7 @@
     "Ek": ""
   },
   {
-    "#": "442",
+    "#": "445",
     "Şirket Kodu": "ASELS",
     "Kurum": "Tacirler",
     "Öneri": "Tut",
@@ -5604,7 +5340,7 @@
     "Ek": ""
   },
   {
-    "#": "443",
+    "#": "446",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -5616,7 +5352,7 @@
     "Ek": ""
   },
   {
-    "#": "444",
+    "#": "447",
     "Şirket Kodu": "EREGL",
     "Kurum": "Şeker",
     "Öneri": "Tut",
@@ -5628,7 +5364,7 @@
     "Ek": ""
   },
   {
-    "#": "445",
+    "#": "448",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -5640,7 +5376,7 @@
     "Ek": ""
   },
   {
-    "#": "446",
+    "#": "449",
     "Şirket Kodu": "YKBNK",
     "Kurum": "TEB Yat.",
     "Öneri": "Endekse Paralel",
@@ -5652,7 +5388,7 @@
     "Ek": ""
   },
   {
-    "#": "447",
+    "#": "450",
     "Şirket Kodu": "AKBNK",
     "Kurum": "TEB Yat.",
     "Öneri": "Endeks Üstü",
@@ -5664,7 +5400,7 @@
     "Ek": ""
   },
   {
-    "#": "448",
+    "#": "451",
     "Şirket Kodu": "ASELS",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -5676,7 +5412,7 @@
     "Ek": ""
   },
   {
-    "#": "449",
+    "#": "452",
     "Şirket Kodu": "ASELS",
     "Kurum": "Ahlatcı",
     "Öneri": "Tut",
@@ -5688,7 +5424,7 @@
     "Ek": ""
   },
   {
-    "#": "450",
+    "#": "453",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -5700,19 +5436,7 @@
     "Ek": ""
   },
   {
-    "#": "451",
-    "Şirket Kodu": "AKBNK",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "29 Nisan 2026",
-    "Hedef Fiyat": "115,92",
-    "Son Fiyat": "76,75",
-    "Potansiyel Getiri": "% 51,04",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "452",
+    "#": "454",
     "Şirket Kodu": "EREGL",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -5724,7 +5448,7 @@
     "Ek": ""
   },
   {
-    "#": "453",
+    "#": "455",
     "Şirket Kodu": "ASELS",
     "Kurum": "Trive",
     "Öneri": "Tut",
@@ -5736,7 +5460,7 @@
     "Ek": ""
   },
   {
-    "#": "454",
+    "#": "456",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -5748,7 +5472,7 @@
     "Ek": ""
   },
   {
-    "#": "455",
+    "#": "457",
     "Şirket Kodu": "EREGL",
     "Kurum": "Kuv.Türk",
     "Öneri": "Tut",
@@ -5760,7 +5484,7 @@
     "Ek": ""
   },
   {
-    "#": "456",
+    "#": "458",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Oyak",
     "Öneri": "Endekse Paralel",
@@ -5772,7 +5496,7 @@
     "Ek": ""
   },
   {
-    "#": "457",
+    "#": "459",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -5784,7 +5508,7 @@
     "Ek": ""
   },
   {
-    "#": "458",
+    "#": "460",
     "Şirket Kodu": "ASELS",
     "Kurum": "Oyak",
     "Öneri": "Endekse Paralel",
@@ -5796,7 +5520,7 @@
     "Ek": ""
   },
   {
-    "#": "459",
+    "#": "461",
     "Şirket Kodu": "ISFIN",
     "Kurum": "GCM",
     "Öneri": "",
@@ -5808,7 +5532,7 @@
     "Ek": ""
   },
   {
-    "#": "460",
+    "#": "462",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5820,7 +5544,7 @@
     "Ek": ""
   },
   {
-    "#": "461",
+    "#": "463",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -5832,7 +5556,7 @@
     "Ek": ""
   },
   {
-    "#": "462",
+    "#": "464",
     "Şirket Kodu": "EREGL",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -5844,7 +5568,7 @@
     "Ek": ""
   },
   {
-    "#": "463",
+    "#": "465",
     "Şirket Kodu": "AKBNK",
     "Kurum": "GCM",
     "Öneri": "",
@@ -5856,7 +5580,7 @@
     "Ek": ""
   },
   {
-    "#": "464",
+    "#": "466",
     "Şirket Kodu": "ASELS",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -5868,7 +5592,7 @@
     "Ek": ""
   },
   {
-    "#": "465",
+    "#": "467",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -5880,7 +5604,7 @@
     "Ek": ""
   },
   {
-    "#": "466",
+    "#": "468",
     "Şirket Kodu": "EREGL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5892,7 +5616,7 @@
     "Ek": ""
   },
   {
-    "#": "467",
+    "#": "469",
     "Şirket Kodu": "AKBNK",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -5904,7 +5628,7 @@
     "Ek": ""
   },
   {
-    "#": "468",
+    "#": "470",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Phillip",
     "Öneri": "Tut",
@@ -5916,7 +5640,7 @@
     "Ek": ""
   },
   {
-    "#": "469",
+    "#": "471",
     "Şirket Kodu": "ASELS",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -5928,7 +5652,7 @@
     "Ek": ""
   },
   {
-    "#": "470",
+    "#": "472",
     "Şirket Kodu": "ASELS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -5940,7 +5664,7 @@
     "Ek": ""
   },
   {
-    "#": "471",
+    "#": "473",
     "Şirket Kodu": "EREGL",
     "Kurum": "Ak",
     "Öneri": "Endekse Paralel",
@@ -5952,7 +5676,7 @@
     "Ek": ""
   },
   {
-    "#": "472",
+    "#": "474",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -5964,7 +5688,7 @@
     "Ek": ""
   },
   {
-    "#": "473",
+    "#": "475",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -5976,7 +5700,7 @@
     "Ek": ""
   },
   {
-    "#": "474",
+    "#": "476",
     "Şirket Kodu": "EREGL",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -5988,7 +5712,7 @@
     "Ek": ""
   },
   {
-    "#": "475",
+    "#": "477",
     "Şirket Kodu": "ASELS",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -6000,7 +5724,7 @@
     "Ek": ""
   },
   {
-    "#": "476",
+    "#": "478",
     "Şirket Kodu": "EREGL",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -6012,7 +5736,7 @@
     "Ek": ""
   },
   {
-    "#": "477",
+    "#": "479",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -6024,7 +5748,7 @@
     "Ek": ""
   },
   {
-    "#": "478",
+    "#": "480",
     "Şirket Kodu": "EREGL",
     "Kurum": "Phillip",
     "Öneri": "Endekse Paralel",
@@ -6036,7 +5760,7 @@
     "Ek": ""
   },
   {
-    "#": "479",
+    "#": "481",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -6048,7 +5772,7 @@
     "Ek": ""
   },
   {
-    "#": "480",
+    "#": "482",
     "Şirket Kodu": "EREGL",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -6060,7 +5784,7 @@
     "Ek": ""
   },
   {
-    "#": "481",
+    "#": "483",
     "Şirket Kodu": "GLCVY",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6072,7 +5796,7 @@
     "Ek": ""
   },
   {
-    "#": "482",
+    "#": "484",
     "Şirket Kodu": "ASELS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -6084,7 +5808,7 @@
     "Ek": ""
   },
   {
-    "#": "483",
+    "#": "485",
     "Şirket Kodu": "EREGL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6096,7 +5820,7 @@
     "Ek": ""
   },
   {
-    "#": "484",
+    "#": "486",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -6108,7 +5832,7 @@
     "Ek": ""
   },
   {
-    "#": "485",
+    "#": "487",
     "Şirket Kodu": "ASELS",
     "Kurum": "Kuv.Türk",
     "Öneri": "Tut",
@@ -6120,7 +5844,7 @@
     "Ek": ""
   },
   {
-    "#": "486",
+    "#": "488",
     "Şirket Kodu": "AKBNK",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -6132,7 +5856,7 @@
     "Ek": ""
   },
   {
-    "#": "487",
+    "#": "489",
     "Şirket Kodu": "GLCVY",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -6144,7 +5868,7 @@
     "Ek": ""
   },
   {
-    "#": "488",
+    "#": "490",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Trive",
     "Öneri": "Al",
@@ -6156,7 +5880,7 @@
     "Ek": ""
   },
   {
-    "#": "489",
+    "#": "491",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -6168,19 +5892,7 @@
     "Ek": ""
   },
   {
-    "#": "490",
-    "Şirket Kodu": "VESBE",
-    "Kurum": "Şeker",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "28 Nisan 2026",
-    "Hedef Fiyat": "11,50",
-    "Son Fiyat": "6,43",
-    "Potansiyel Getiri": "% 78,85",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "491",
+    "#": "492",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -6192,7 +5904,19 @@
     "Ek": ""
   },
   {
-    "#": "492",
+    "#": "493",
+    "Şirket Kodu": "VESBE",
+    "Kurum": "Şeker",
+    "Öneri": "Tut",
+    "Güncellenme Tarihi": "28 Nisan 2026",
+    "Hedef Fiyat": "11,50",
+    "Son Fiyat": "6,43",
+    "Potansiyel Getiri": "% 78,85",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "494",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -6204,7 +5928,7 @@
     "Ek": ""
   },
   {
-    "#": "493",
+    "#": "495",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -6216,7 +5940,7 @@
     "Ek": ""
   },
   {
-    "#": "494",
+    "#": "496",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -6228,7 +5952,7 @@
     "Ek": ""
   },
   {
-    "#": "495",
+    "#": "497",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -6240,7 +5964,7 @@
     "Ek": ""
   },
   {
-    "#": "496",
+    "#": "498",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Ahlatcı",
     "Öneri": "Al",
@@ -6252,7 +5976,7 @@
     "Ek": ""
   },
   {
-    "#": "497",
+    "#": "499",
     "Şirket Kodu": "TAVHL",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6264,7 +5988,7 @@
     "Ek": ""
   },
   {
-    "#": "498",
+    "#": "500",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -6276,7 +6000,7 @@
     "Ek": ""
   },
   {
-    "#": "499",
+    "#": "501",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -6288,7 +6012,7 @@
     "Ek": ""
   },
   {
-    "#": "500",
+    "#": "502",
     "Şirket Kodu": "TAVHL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6300,7 +6024,7 @@
     "Ek": ""
   },
   {
-    "#": "501",
+    "#": "503",
     "Şirket Kodu": "ANHYT",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6312,7 +6036,7 @@
     "Ek": ""
   },
   {
-    "#": "502",
+    "#": "504",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6324,7 +6048,7 @@
     "Ek": ""
   },
   {
-    "#": "503",
+    "#": "505",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -6336,7 +6060,7 @@
     "Ek": ""
   },
   {
-    "#": "504",
+    "#": "506",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Oyak",
     "Öneri": "Endekse Paralel",
@@ -6348,7 +6072,7 @@
     "Ek": ""
   },
   {
-    "#": "505",
+    "#": "507",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -6360,7 +6084,7 @@
     "Ek": ""
   },
   {
-    "#": "506",
+    "#": "508",
     "Şirket Kodu": "ARCLK",
     "Kurum": "HSBC",
     "Öneri": "Tut",
@@ -6372,7 +6096,7 @@
     "Ek": ""
   },
   {
-    "#": "507",
+    "#": "509",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -6380,30 +6104,6 @@
     "Hedef Fiyat": "185,00",
     "Son Fiyat": "106,10",
     "Potansiyel Getiri": "% 74,36",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "508",
-    "Şirket Kodu": "ISGYO",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "27,20",
-    "Son Fiyat": "20,82",
-    "Potansiyel Getiri": "% 30,64",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "509",
-    "Şirket Kodu": "PETKM",
-    "Kurum": "İş",
-    "Öneri": "Sat",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "18,00",
-    "Son Fiyat": "19,35",
-    "Potansiyel Getiri": "% -6,98",
     "Model Portföy": "",
     "Ek": ""
   },
@@ -6445,18 +6145,6 @@
   },
   {
     "#": "513",
-    "Şirket Kodu": "ASELS",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "450,00",
-    "Son Fiyat": "375,75",
-    "Potansiyel Getiri": "% 19,76",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "514",
     "Şirket Kodu": "LILAK",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6468,31 +6156,7 @@
     "Ek": ""
   },
   {
-    "#": "515",
-    "Şirket Kodu": "PGSUS",
-    "Kurum": "İş",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "235,20",
-    "Son Fiyat": "181,20",
-    "Potansiyel Getiri": "% 29,80",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "516",
-    "Şirket Kodu": "DOAS",
-    "Kurum": "İş",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "220,10",
-    "Son Fiyat": "204,00",
-    "Potansiyel Getiri": "% 7,89",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "517",
+    "#": "514",
     "Şirket Kodu": "LOGO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6504,7 +6168,7 @@
     "Ek": ""
   },
   {
-    "#": "518",
+    "#": "515",
     "Şirket Kodu": "BALSU",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6516,31 +6180,7 @@
     "Ek": ""
   },
   {
-    "#": "519",
-    "Şirket Kodu": "TTRAK",
-    "Kurum": "İş",
-    "Öneri": "Tut",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "639,99",
-    "Son Fiyat": "453,50",
-    "Potansiyel Getiri": "% 41,12",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "520",
-    "Şirket Kodu": "ALBRK",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "11,74",
-    "Son Fiyat": "8,83",
-    "Potansiyel Getiri": "% 32,96",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "521",
+    "#": "516",
     "Şirket Kodu": "ULKER",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6552,7 +6192,19 @@
     "Ek": ""
   },
   {
-    "#": "522",
+    "#": "517",
+    "Şirket Kodu": "ASELS",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "450,00",
+    "Son Fiyat": "375,75",
+    "Potansiyel Getiri": "% 19,76",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "518",
     "Şirket Kodu": "ATAKP",
     "Kurum": "İş",
     "Öneri": "Tut",
@@ -6564,7 +6216,7 @@
     "Ek": ""
   },
   {
-    "#": "523",
+    "#": "519",
     "Şirket Kodu": "TABGD",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6576,43 +6228,7 @@
     "Ek": ""
   },
   {
-    "#": "524",
-    "Şirket Kodu": "AKGRT",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "9,68",
-    "Son Fiyat": "7,24",
-    "Potansiyel Getiri": "% 33,70",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "525",
-    "Şirket Kodu": "TURSG",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "22,43",
-    "Son Fiyat": "6,65",
-    "Potansiyel Getiri": "% 237,29",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "526",
-    "Şirket Kodu": "ARCLK",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "159,24",
-    "Son Fiyat": "106,10",
-    "Potansiyel Getiri": "% 50,08",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "527",
+    "#": "520",
     "Şirket Kodu": "MGROS",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6624,19 +6240,7 @@
     "Ek": ""
   },
   {
-    "#": "528",
-    "Şirket Kodu": "AKSGY",
-    "Kurum": "İş",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "24 Nisan 2026",
-    "Hedef Fiyat": "14,03",
-    "Son Fiyat": "9,39",
-    "Potansiyel Getiri": "% 49,41",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "529",
+    "#": "521",
     "Şirket Kodu": "ALARK",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6648,7 +6252,7 @@
     "Ek": ""
   },
   {
-    "#": "530",
+    "#": "522",
     "Şirket Kodu": "TRGYO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6660,7 +6264,7 @@
     "Ek": ""
   },
   {
-    "#": "531",
+    "#": "523",
     "Şirket Kodu": "RGYAS",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6672,7 +6276,19 @@
     "Ek": ""
   },
   {
-    "#": "532",
+    "#": "524",
+    "Şirket Kodu": "ISGYO",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "27,20",
+    "Son Fiyat": "20,82",
+    "Potansiyel Getiri": "% 30,64",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "525",
     "Şirket Kodu": "EKGYO",
     "Kurum": "İş",
     "Öneri": "Al",
@@ -6684,7 +6300,115 @@
     "Ek": ""
   },
   {
+    "#": "526",
+    "Şirket Kodu": "AKSGY",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "14,03",
+    "Son Fiyat": "9,39",
+    "Potansiyel Getiri": "% 49,41",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "527",
+    "Şirket Kodu": "DOAS",
+    "Kurum": "İş",
+    "Öneri": "Tut",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "220,10",
+    "Son Fiyat": "204,00",
+    "Potansiyel Getiri": "% 7,89",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "528",
+    "Şirket Kodu": "PETKM",
+    "Kurum": "İş",
+    "Öneri": "Sat",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "18,00",
+    "Son Fiyat": "19,35",
+    "Potansiyel Getiri": "% -6,98",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "529",
+    "Şirket Kodu": "PGSUS",
+    "Kurum": "İş",
+    "Öneri": "Tut",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "235,20",
+    "Son Fiyat": "181,20",
+    "Potansiyel Getiri": "% 29,80",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "530",
+    "Şirket Kodu": "ARCLK",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "159,24",
+    "Son Fiyat": "106,10",
+    "Potansiyel Getiri": "% 50,08",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "531",
+    "Şirket Kodu": "TURSG",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "22,43",
+    "Son Fiyat": "6,65",
+    "Potansiyel Getiri": "% 237,29",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "532",
+    "Şirket Kodu": "AKGRT",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "9,68",
+    "Son Fiyat": "7,24",
+    "Potansiyel Getiri": "% 33,70",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
     "#": "533",
+    "Şirket Kodu": "ALBRK",
+    "Kurum": "İş",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "11,74",
+    "Son Fiyat": "8,83",
+    "Potansiyel Getiri": "% 32,96",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "534",
+    "Şirket Kodu": "TTRAK",
+    "Kurum": "İş",
+    "Öneri": "Tut",
+    "Güncellenme Tarihi": "24 Nisan 2026",
+    "Hedef Fiyat": "639,99",
+    "Son Fiyat": "453,50",
+    "Potansiyel Getiri": "% 41,12",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "535",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -6696,7 +6420,7 @@
     "Ek": ""
   },
   {
-    "#": "534",
+    "#": "536",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6708,7 +6432,7 @@
     "Ek": ""
   },
   {
-    "#": "535",
+    "#": "537",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Tera",
     "Öneri": "Endekse Paralel",
@@ -6720,7 +6444,7 @@
     "Ek": ""
   },
   {
-    "#": "536",
+    "#": "538",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -6732,7 +6456,7 @@
     "Ek": ""
   },
   {
-    "#": "537",
+    "#": "539",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Garanti",
     "Öneri": "Endekse Paralel",
@@ -6744,7 +6468,7 @@
     "Ek": ""
   },
   {
-    "#": "538",
+    "#": "540",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -6756,7 +6480,7 @@
     "Ek": ""
   },
   {
-    "#": "539",
+    "#": "541",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -6768,7 +6492,7 @@
     "Ek": ""
   },
   {
-    "#": "540",
+    "#": "542",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -6780,7 +6504,7 @@
     "Ek": ""
   },
   {
-    "#": "541",
+    "#": "543",
     "Şirket Kodu": "YKBNK",
     "Kurum": "Destek",
     "Öneri": "Al",
@@ -6792,38 +6516,14 @@
     "Ek": ""
   },
   {
-    "#": "542",
-    "Şirket Kodu": "ENKAI",
-    "Kurum": "Destek",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "22 Nisan 2026",
-    "Hedef Fiyat": "140,00",
-    "Son Fiyat": "96,10",
-    "Potansiyel Getiri": "% 45,68",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "543",
-    "Şirket Kodu": "TCELL",
-    "Kurum": "Destek",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "22 Nisan 2026",
-    "Hedef Fiyat": "157,83",
-    "Son Fiyat": "114,90",
-    "Potansiyel Getiri": "% 37,36",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
     "#": "544",
-    "Şirket Kodu": "AKBNK",
+    "Şirket Kodu": "ANSGR",
     "Kurum": "Destek",
     "Öneri": "Al",
     "Güncellenme Tarihi": "22 Nisan 2026",
-    "Hedef Fiyat": "109,00",
-    "Son Fiyat": "76,75",
-    "Potansiyel Getiri": "% 42,02",
+    "Hedef Fiyat": "45,73",
+    "Son Fiyat": "28,42",
+    "Potansiyel Getiri": "% 60,91",
     "Model Portföy": "",
     "Ek": ""
   },
@@ -6841,18 +6541,42 @@
   },
   {
     "#": "546",
-    "Şirket Kodu": "ANSGR",
+    "Şirket Kodu": "AKBNK",
     "Kurum": "Destek",
     "Öneri": "Al",
     "Güncellenme Tarihi": "22 Nisan 2026",
-    "Hedef Fiyat": "45,73",
-    "Son Fiyat": "28,42",
-    "Potansiyel Getiri": "% 60,91",
+    "Hedef Fiyat": "109,00",
+    "Son Fiyat": "76,75",
+    "Potansiyel Getiri": "% 42,02",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "547",
+    "Şirket Kodu": "ENKAI",
+    "Kurum": "Destek",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "22 Nisan 2026",
+    "Hedef Fiyat": "140,00",
+    "Son Fiyat": "96,10",
+    "Potansiyel Getiri": "% 45,68",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "548",
+    "Şirket Kodu": "TCELL",
+    "Kurum": "Destek",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "22 Nisan 2026",
+    "Hedef Fiyat": "157,83",
+    "Son Fiyat": "114,90",
+    "Potansiyel Getiri": "% 37,36",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "549",
     "Şirket Kodu": "AKGRT",
     "Kurum": "Alnus",
     "Öneri": "Al",
@@ -6864,7 +6588,7 @@
     "Ek": ""
   },
   {
-    "#": "548",
+    "#": "550",
     "Şirket Kodu": "TSKB",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -6876,7 +6600,7 @@
     "Ek": ""
   },
   {
-    "#": "549",
+    "#": "551",
     "Şirket Kodu": "TABGD",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -6888,7 +6612,7 @@
     "Ek": ""
   },
   {
-    "#": "550",
+    "#": "552",
     "Şirket Kodu": "AKGRT",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6900,7 +6624,7 @@
     "Ek": ""
   },
   {
-    "#": "551",
+    "#": "553",
     "Şirket Kodu": "TABGD",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -6912,7 +6636,7 @@
     "Ek": ""
   },
   {
-    "#": "552",
+    "#": "554",
     "Şirket Kodu": "AKGRT",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -6924,7 +6648,7 @@
     "Ek": ""
   },
   {
-    "#": "553",
+    "#": "555",
     "Şirket Kodu": "AKGRT",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -6936,7 +6660,7 @@
     "Ek": ""
   },
   {
-    "#": "554",
+    "#": "556",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -6948,19 +6672,7 @@
     "Ek": ""
   },
   {
-    "#": "555",
-    "Şirket Kodu": "TURSG",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "21 Nisan 2026",
-    "Hedef Fiyat": "20,16",
-    "Son Fiyat": "6,65",
-    "Potansiyel Getiri": "% 203,16",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "556",
+    "#": "557",
     "Şirket Kodu": "TURSG",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -6972,7 +6684,7 @@
     "Ek": ""
   },
   {
-    "#": "557",
+    "#": "558",
     "Şirket Kodu": "TURSG",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -6984,7 +6696,7 @@
     "Ek": ""
   },
   {
-    "#": "558",
+    "#": "559",
     "Şirket Kodu": "TURSG",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -6996,7 +6708,7 @@
     "Ek": ""
   },
   {
-    "#": "559",
+    "#": "560",
     "Şirket Kodu": "TURSG",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -7008,7 +6720,7 @@
     "Ek": ""
   },
   {
-    "#": "560",
+    "#": "561",
     "Şirket Kodu": "TURSG",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -7020,7 +6732,7 @@
     "Ek": ""
   },
   {
-    "#": "561",
+    "#": "562",
     "Şirket Kodu": "TURSG",
     "Kurum": "GCM",
     "Öneri": "",
@@ -7032,7 +6744,7 @@
     "Ek": ""
   },
   {
-    "#": "562",
+    "#": "563",
     "Şirket Kodu": "TURSG",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -7044,7 +6756,7 @@
     "Ek": ""
   },
   {
-    "#": "563",
+    "#": "564",
     "Şirket Kodu": "TURSG",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -7056,7 +6768,7 @@
     "Ek": ""
   },
   {
-    "#": "564",
+    "#": "565",
     "Şirket Kodu": "TUPRS",
     "Kurum": "Global",
     "Öneri": "Al",
@@ -7068,7 +6780,7 @@
     "Ek": ""
   },
   {
-    "#": "565",
+    "#": "566",
     "Şirket Kodu": "TURSG",
     "Kurum": "Pusula",
     "Öneri": "Al",
@@ -7080,7 +6792,7 @@
     "Ek": ""
   },
   {
-    "#": "566",
+    "#": "567",
     "Şirket Kodu": "ARCLK",
     "Kurum": "Citi",
     "Öneri": "Tut",
@@ -7092,26 +6804,14 @@
     "Ek": ""
   },
   {
-    "#": "567",
-    "Şirket Kodu": "DOCO",
-    "Kurum": "HSBC",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "17 Nisan 2026",
-    "Hedef Fiyat": "12.500,00",
-    "Son Fiyat": "11.745,00",
-    "Potansiyel Getiri": "% 6,43",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
     "#": "568",
-    "Şirket Kodu": "MAVI",
+    "Şirket Kodu": "AEFES",
     "Kurum": "HSBC",
-    "Öneri": "Al",
+    "Öneri": "Tut",
     "Güncellenme Tarihi": "17 Nisan 2026",
-    "Hedef Fiyat": "62,00",
-    "Son Fiyat": "42,68",
-    "Potansiyel Getiri": "% 45,27",
+    "Hedef Fiyat": "21,00",
+    "Son Fiyat": "21,30",
+    "Potansiyel Getiri": "% -1,41",
     "Model Portföy": "",
     "Ek": ""
   },
@@ -7129,18 +6829,30 @@
   },
   {
     "#": "570",
-    "Şirket Kodu": "AEFES",
+    "Şirket Kodu": "MAVI",
     "Kurum": "HSBC",
-    "Öneri": "Tut",
+    "Öneri": "Al",
     "Güncellenme Tarihi": "17 Nisan 2026",
-    "Hedef Fiyat": "21,00",
-    "Son Fiyat": "21,30",
-    "Potansiyel Getiri": "% -1,41",
+    "Hedef Fiyat": "62,00",
+    "Son Fiyat": "42,68",
+    "Potansiyel Getiri": "% 45,27",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "571",
+    "Şirket Kodu": "DOCO",
+    "Kurum": "HSBC",
+    "Öneri": "Al",
+    "Güncellenme Tarihi": "17 Nisan 2026",
+    "Hedef Fiyat": "12.500,00",
+    "Son Fiyat": "11.745,00",
+    "Potansiyel Getiri": "% 6,43",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "572",
     "Şirket Kodu": "CCOLA",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -7152,7 +6864,7 @@
     "Ek": ""
   },
   {
-    "#": "572",
+    "#": "573",
     "Şirket Kodu": "TCELL",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -7164,7 +6876,7 @@
     "Ek": ""
   },
   {
-    "#": "573",
+    "#": "574",
     "Şirket Kodu": "TTKOM",
     "Kurum": "HSBC",
     "Öneri": "Tut",
@@ -7176,535 +6888,7 @@
     "Ek": ""
   },
   {
-    "#": "574",
-    "Şirket Kodu": "VAKBN",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "43,12",
-    "Son Fiyat": "33,98",
-    "Potansiyel Getiri": "% 26,90",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
     "#": "575",
-    "Şirket Kodu": "GARAN",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "180,32",
-    "Son Fiyat": "141,00",
-    "Potansiyel Getiri": "% 27,89",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "576",
-    "Şirket Kodu": "ISCTR",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "19,86",
-    "Son Fiyat": "14,89",
-    "Potansiyel Getiri": "% 33,38",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "577",
-    "Şirket Kodu": "ULKER",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "180,00",
-    "Son Fiyat": "116,70",
-    "Potansiyel Getiri": "% 54,24",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "578",
-    "Şirket Kodu": "AYGAZ",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "304,00",
-    "Son Fiyat": "227,00",
-    "Potansiyel Getiri": "% 33,92",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "579",
-    "Şirket Kodu": "TCELL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "157,50",
-    "Son Fiyat": "114,90",
-    "Potansiyel Getiri": "% 37,08",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "580",
-    "Şirket Kodu": "TTRAK",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "570,00",
-    "Son Fiyat": "453,50",
-    "Potansiyel Getiri": "% 25,69",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "581",
-    "Şirket Kodu": "TTKOM",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "85,00",
-    "Son Fiyat": "65,05",
-    "Potansiyel Getiri": "% 30,67",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "582",
-    "Şirket Kodu": "THYAO",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "400,00",
-    "Son Fiyat": "325,75",
-    "Potansiyel Getiri": "% 22,79",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "583",
-    "Şirket Kodu": "TOASO",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "320,00",
-    "Son Fiyat": "315,25",
-    "Potansiyel Getiri": "% 1,51",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "584",
-    "Şirket Kodu": "TKFEN",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "104,00",
-    "Son Fiyat": "135,30",
-    "Potansiyel Getiri": "% -23,13",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "585",
-    "Şirket Kodu": "TAVHL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "420,00",
-    "Son Fiyat": "292,00",
-    "Potansiyel Getiri": "% 43,84",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "586",
-    "Şirket Kodu": "SOKM",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "88,00",
-    "Son Fiyat": "50,95",
-    "Potansiyel Getiri": "% 72,72",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "587",
-    "Şirket Kodu": "SISE",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "60,00",
-    "Son Fiyat": "46,40",
-    "Potansiyel Getiri": "% 29,31",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "588",
-    "Şirket Kodu": "PETKM",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "25,00",
-    "Son Fiyat": "19,35",
-    "Potansiyel Getiri": "% 29,20",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "589",
-    "Şirket Kodu": "PGSUS",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "230,00",
-    "Son Fiyat": "181,20",
-    "Potansiyel Getiri": "% 26,93",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "590",
-    "Şirket Kodu": "OYAKC",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "38,17",
-    "Son Fiyat": "22,06",
-    "Potansiyel Getiri": "% 73,03",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "591",
-    "Şirket Kodu": "OTKAR",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "520,00",
-    "Son Fiyat": "356,25",
-    "Potansiyel Getiri": "% 45,96",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "592",
-    "Şirket Kodu": "ORGE",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "112,00",
-    "Son Fiyat": "115,90",
-    "Potansiyel Getiri": "% -3,36",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "593",
-    "Şirket Kodu": "LOGO",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "229,84",
-    "Son Fiyat": "142,70",
-    "Potansiyel Getiri": "% 61,07",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "594",
-    "Şirket Kodu": "TRMET",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "120,00",
-    "Son Fiyat": "111,80",
-    "Potansiyel Getiri": "% 7,33",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "595",
-    "Şirket Kodu": "TRALT",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "36,00",
-    "Son Fiyat": "46,52",
-    "Potansiyel Getiri": "% -22,61",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "596",
-    "Şirket Kodu": "KORDS",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "67,50",
-    "Son Fiyat": "80,75",
-    "Potansiyel Getiri": "% -16,41",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "597",
-    "Şirket Kodu": "KCHOL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "301,15",
-    "Son Fiyat": "196,80",
-    "Potansiyel Getiri": "% 53,02",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "598",
-    "Şirket Kodu": "KCAER",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "13,50",
-    "Son Fiyat": "15,32",
-    "Potansiyel Getiri": "% -11,88",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "599",
-    "Şirket Kodu": "BIMAS",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "387,00",
-    "Son Fiyat": "394,00",
-    "Potansiyel Getiri": "% -1,78",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "600",
-    "Şirket Kodu": "KRDMD",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "35,10",
-    "Son Fiyat": "41,04",
-    "Potansiyel Getiri": "% -14,47",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "601",
-    "Şirket Kodu": "KLKIM",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "50,18",
-    "Son Fiyat": "31,90",
-    "Potansiyel Getiri": "% 57,30",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "602",
-    "Şirket Kodu": "TSKB",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "17,95",
-    "Son Fiyat": "12,29",
-    "Potansiyel Getiri": "% 46,05",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "603",
-    "Şirket Kodu": "AGHOL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "40,87",
-    "Son Fiyat": "34,22",
-    "Potansiyel Getiri": "% 19,43",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "604",
-    "Şirket Kodu": "AEFES",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "18,40",
-    "Son Fiyat": "21,30",
-    "Potansiyel Getiri": "% -13,62",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "605",
-    "Şirket Kodu": "AKSEN",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "91,00",
-    "Son Fiyat": "82,00",
-    "Potansiyel Getiri": "% 10,98",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "606",
-    "Şirket Kodu": "TUPRS",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "336,00",
-    "Son Fiyat": "231,90",
-    "Potansiyel Getiri": "% 44,89",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "607",
-    "Şirket Kodu": "TABGD",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "375,50",
-    "Son Fiyat": "266,00",
-    "Potansiyel Getiri": "% 41,17",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "608",
-    "Şirket Kodu": "SAHOL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "131,41",
-    "Son Fiyat": "101,20",
-    "Potansiyel Getiri": "% 29,85",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "609",
-    "Şirket Kodu": "MPARK",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "550,00",
-    "Son Fiyat": "452,50",
-    "Potansiyel Getiri": "% 21,55",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "610",
-    "Şirket Kodu": "MGROS",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "824,00",
-    "Son Fiyat": "699,00",
-    "Potansiyel Getiri": "% 17,88",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "611",
-    "Şirket Kodu": "DOHOL",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "29,97",
-    "Son Fiyat": "23,20",
-    "Potansiyel Getiri": "% 29,18",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "612",
-    "Şirket Kodu": "AKBNK",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "96,78",
-    "Son Fiyat": "76,75",
-    "Potansiyel Getiri": "% 26,10",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "613",
-    "Şirket Kodu": "CCOLA",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "95,10",
-    "Son Fiyat": "82,50",
-    "Potansiyel Getiri": "% 15,27",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "614",
-    "Şirket Kodu": "AKSA",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "15,50",
-    "Son Fiyat": "12,02",
-    "Potansiyel Getiri": "% 28,95",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "615",
-    "Şirket Kodu": "AGESA",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "328,24",
-    "Son Fiyat": "263,50",
-    "Potansiyel Getiri": "% 24,57",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "616",
-    "Şirket Kodu": "YKBNK",
-    "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "49,57",
-    "Son Fiyat": "40,46",
-    "Potansiyel Getiri": "% 22,52",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "617",
-    "Şirket Kodu": "ZOREN",
-    "Kurum": "Gedik",
-    "Öneri": "Endekse Paralel",
-    "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "3,50",
-    "Son Fiyat": "2,95",
-    "Potansiyel Getiri": "% 18,64",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "618",
     "Şirket Kodu": "INDES",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
@@ -7716,43 +6900,403 @@
     "Ek": ""
   },
   {
-    "#": "619",
-    "Şirket Kodu": "HOROZ",
+    "#": "576",
+    "Şirket Kodu": "TSKB",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "72,00",
-    "Son Fiyat": "63,55",
-    "Potansiyel Getiri": "% 13,30",
+    "Hedef Fiyat": "17,95",
+    "Son Fiyat": "12,29",
+    "Potansiyel Getiri": "% 46,05",
     "Model Portföy": "",
     "Ek": ""
   },
   {
-    "#": "620",
-    "Şirket Kodu": "GOODY",
+    "#": "577",
+    "Şirket Kodu": "ISCTR",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "19,86",
+    "Son Fiyat": "14,89",
+    "Potansiyel Getiri": "% 33,38",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "578",
+    "Şirket Kodu": "GARAN",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "180,32",
+    "Son Fiyat": "141,00",
+    "Potansiyel Getiri": "% 27,89",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "579",
+    "Şirket Kodu": "VAKBN",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "43,12",
+    "Son Fiyat": "33,98",
+    "Potansiyel Getiri": "% 26,90",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "580",
+    "Şirket Kodu": "AKBNK",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "96,78",
+    "Son Fiyat": "76,75",
+    "Potansiyel Getiri": "% 26,10",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "581",
+    "Şirket Kodu": "AGHOL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "40,87",
+    "Son Fiyat": "34,22",
+    "Potansiyel Getiri": "% 19,43",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "582",
+    "Şirket Kodu": "AEFES",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
     "Hedef Fiyat": "18,40",
-    "Son Fiyat": "16,20",
-    "Potansiyel Getiri": "% 13,58",
+    "Son Fiyat": "21,30",
+    "Potansiyel Getiri": "% -13,62",
     "Model Portföy": "",
     "Ek": ""
   },
   {
-    "#": "621",
-    "Şirket Kodu": "FROTO",
+    "#": "583",
+    "Şirket Kodu": "AKSEN",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "125,00",
-    "Son Fiyat": "90,10",
-    "Potansiyel Getiri": "% 38,73",
+    "Hedef Fiyat": "91,00",
+    "Son Fiyat": "82,00",
+    "Potansiyel Getiri": "% 10,98",
     "Model Portföy": "",
     "Ek": ""
   },
   {
-    "#": "622",
+    "#": "584",
+    "Şirket Kodu": "BIMAS",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "387,00",
+    "Son Fiyat": "394,00",
+    "Potansiyel Getiri": "% -1,78",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "585",
+    "Şirket Kodu": "TUPRS",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "336,00",
+    "Son Fiyat": "231,90",
+    "Potansiyel Getiri": "% 44,89",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "586",
+    "Şirket Kodu": "TABGD",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "375,50",
+    "Son Fiyat": "266,00",
+    "Potansiyel Getiri": "% 41,17",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "587",
+    "Şirket Kodu": "SAHOL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "131,41",
+    "Son Fiyat": "101,20",
+    "Potansiyel Getiri": "% 29,85",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "588",
+    "Şirket Kodu": "MPARK",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "550,00",
+    "Son Fiyat": "452,50",
+    "Potansiyel Getiri": "% 21,55",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "589",
+    "Şirket Kodu": "MGROS",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "824,00",
+    "Son Fiyat": "699,00",
+    "Potansiyel Getiri": "% 17,88",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "590",
+    "Şirket Kodu": "DOHOL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "29,97",
+    "Son Fiyat": "23,20",
+    "Potansiyel Getiri": "% 29,18",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "591",
+    "Şirket Kodu": "CCOLA",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "95,10",
+    "Son Fiyat": "82,50",
+    "Potansiyel Getiri": "% 15,27",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "592",
+    "Şirket Kodu": "AKSA",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "15,50",
+    "Son Fiyat": "12,02",
+    "Potansiyel Getiri": "% 28,95",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "593",
+    "Şirket Kodu": "AGESA",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "328,24",
+    "Son Fiyat": "263,50",
+    "Potansiyel Getiri": "% 24,57",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "594",
+    "Şirket Kodu": "YKBNK",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "49,57",
+    "Son Fiyat": "40,46",
+    "Potansiyel Getiri": "% 22,52",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "595",
+    "Şirket Kodu": "ZOREN",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "3,50",
+    "Son Fiyat": "2,95",
+    "Potansiyel Getiri": "% 18,64",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "596",
+    "Şirket Kodu": "ULKER",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "180,00",
+    "Son Fiyat": "116,70",
+    "Potansiyel Getiri": "% 54,24",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "597",
+    "Şirket Kodu": "TCELL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "157,50",
+    "Son Fiyat": "114,90",
+    "Potansiyel Getiri": "% 37,08",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "598",
+    "Şirket Kodu": "TTRAK",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "570,00",
+    "Son Fiyat": "453,50",
+    "Potansiyel Getiri": "% 25,69",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "599",
+    "Şirket Kodu": "TTKOM",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "85,00",
+    "Son Fiyat": "65,05",
+    "Potansiyel Getiri": "% 30,67",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "600",
+    "Şirket Kodu": "THYAO",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "400,00",
+    "Son Fiyat": "325,75",
+    "Potansiyel Getiri": "% 22,79",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "601",
+    "Şirket Kodu": "TOASO",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "320,00",
+    "Son Fiyat": "315,25",
+    "Potansiyel Getiri": "% 1,51",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "602",
+    "Şirket Kodu": "TKFEN",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "104,00",
+    "Son Fiyat": "135,30",
+    "Potansiyel Getiri": "% -23,13",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "603",
+    "Şirket Kodu": "TAVHL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "420,00",
+    "Son Fiyat": "292,00",
+    "Potansiyel Getiri": "% 43,84",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "604",
+    "Şirket Kodu": "SOKM",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "88,00",
+    "Son Fiyat": "50,95",
+    "Potansiyel Getiri": "% 72,72",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "605",
+    "Şirket Kodu": "SISE",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "60,00",
+    "Son Fiyat": "46,40",
+    "Potansiyel Getiri": "% 29,31",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "606",
+    "Şirket Kodu": "PETKM",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "25,00",
+    "Son Fiyat": "19,35",
+    "Potansiyel Getiri": "% 29,20",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "607",
+    "Şirket Kodu": "PGSUS",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "230,00",
+    "Son Fiyat": "181,20",
+    "Potansiyel Getiri": "% 26,93",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "608",
+    "Şirket Kodu": "OYAKC",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "38,17",
+    "Son Fiyat": "22,06",
+    "Potansiyel Getiri": "% 73,03",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "609",
     "Şirket Kodu": "AKCNS",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
@@ -7764,7 +7308,7 @@
     "Ek": ""
   },
   {
-    "#": "623",
+    "#": "610",
     "Şirket Kodu": "AKSGY",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
@@ -7776,7 +7320,31 @@
     "Ek": ""
   },
   {
-    "#": "624",
+    "#": "611",
+    "Şirket Kodu": "OTKAR",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "520,00",
+    "Son Fiyat": "356,25",
+    "Potansiyel Getiri": "% 45,96",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "612",
+    "Şirket Kodu": "ORGE",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "112,00",
+    "Son Fiyat": "115,90",
+    "Potansiyel Getiri": "% -3,36",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "613",
     "Şirket Kodu": "ANHYT",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
@@ -7788,14 +7356,146 @@
     "Ek": ""
   },
   {
-    "#": "625",
-    "Şirket Kodu": "EREGL",
+    "#": "614",
+    "Şirket Kodu": "LOGO",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "229,84",
+    "Son Fiyat": "142,70",
+    "Potansiyel Getiri": "% 61,07",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "615",
+    "Şirket Kodu": "TRMET",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "31,95",
-    "Son Fiyat": "40,20",
-    "Potansiyel Getiri": "% -20,52",
+    "Hedef Fiyat": "120,00",
+    "Son Fiyat": "111,80",
+    "Potansiyel Getiri": "% 7,33",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "616",
+    "Şirket Kodu": "TRALT",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "36,00",
+    "Son Fiyat": "46,52",
+    "Potansiyel Getiri": "% -22,61",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "617",
+    "Şirket Kodu": "KORDS",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "67,50",
+    "Son Fiyat": "80,75",
+    "Potansiyel Getiri": "% -16,41",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "618",
+    "Şirket Kodu": "KCHOL",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "301,15",
+    "Son Fiyat": "196,80",
+    "Potansiyel Getiri": "% 53,02",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "619",
+    "Şirket Kodu": "KCAER",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "13,50",
+    "Son Fiyat": "15,32",
+    "Potansiyel Getiri": "% -11,88",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "620",
+    "Şirket Kodu": "ARCLK",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "160,00",
+    "Son Fiyat": "106,10",
+    "Potansiyel Getiri": "% 50,80",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "621",
+    "Şirket Kodu": "KRDMD",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "35,10",
+    "Son Fiyat": "41,04",
+    "Potansiyel Getiri": "% -14,47",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "622",
+    "Şirket Kodu": "AYGAZ",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "304,00",
+    "Son Fiyat": "227,00",
+    "Potansiyel Getiri": "% 33,92",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "623",
+    "Şirket Kodu": "BRISA",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "100,00",
+    "Son Fiyat": "92,00",
+    "Potansiyel Getiri": "% 8,70",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "624",
+    "Şirket Kodu": "CIMSA",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "78,85",
+    "Son Fiyat": "51,40",
+    "Potansiyel Getiri": "% 53,40",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "625",
+    "Şirket Kodu": "DOAS",
+    "Kurum": "Gedik",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "240,00",
+    "Son Fiyat": "204,00",
+    "Potansiyel Getiri": "% 17,65",
     "Model Portföy": "",
     "Ek": ""
   },
@@ -7813,78 +7513,66 @@
   },
   {
     "#": "627",
-    "Şirket Kodu": "DOAS",
+    "Şirket Kodu": "EREGL",
     "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
+    "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "240,00",
-    "Son Fiyat": "204,00",
-    "Potansiyel Getiri": "% 17,65",
+    "Hedef Fiyat": "31,95",
+    "Son Fiyat": "40,20",
+    "Potansiyel Getiri": "% -20,52",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "628",
-    "Şirket Kodu": "CIMSA",
+    "Şirket Kodu": "FROTO",
     "Kurum": "Gedik",
-    "Öneri": "Endeks Üstü",
+    "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "78,85",
-    "Son Fiyat": "51,40",
-    "Potansiyel Getiri": "% 53,40",
+    "Hedef Fiyat": "125,00",
+    "Son Fiyat": "90,10",
+    "Potansiyel Getiri": "% 38,73",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "629",
-    "Şirket Kodu": "BRISA",
+    "Şirket Kodu": "GOODY",
     "Kurum": "Gedik",
     "Öneri": "Endekse Paralel",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "100,00",
-    "Son Fiyat": "92,00",
-    "Potansiyel Getiri": "% 8,70",
+    "Hedef Fiyat": "18,40",
+    "Son Fiyat": "16,20",
+    "Potansiyel Getiri": "% 13,58",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "630",
-    "Şirket Kodu": "ARCLK",
+    "Şirket Kodu": "HOROZ",
     "Kurum": "Gedik",
     "Öneri": "Endeks Üstü",
     "Güncellenme Tarihi": "16 Nisan 2026",
-    "Hedef Fiyat": "160,00",
-    "Son Fiyat": "106,10",
-    "Potansiyel Getiri": "% 50,80",
+    "Hedef Fiyat": "72,00",
+    "Son Fiyat": "63,55",
+    "Potansiyel Getiri": "% 13,30",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "631",
-    "Şirket Kodu": "AGHOL",
-    "Kurum": "Tera",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "13 Nisan 2026",
-    "Hedef Fiyat": "55,00",
-    "Son Fiyat": "34,22",
-    "Potansiyel Getiri": "% 60,72",
+    "Şirket Kodu": "KLKIM",
+    "Kurum": "Gedik",
+    "Öneri": "Endekse Paralel",
+    "Güncellenme Tarihi": "16 Nisan 2026",
+    "Hedef Fiyat": "50,18",
+    "Son Fiyat": "31,90",
+    "Potansiyel Getiri": "% 57,30",
     "Model Portföy": "",
     "Ek": ""
   },
   {
     "#": "632",
-    "Şirket Kodu": "AKGRT",
-    "Kurum": "Tera",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "13 Nisan 2026",
-    "Hedef Fiyat": "11,94",
-    "Son Fiyat": "7,24",
-    "Potansiyel Getiri": "% 64,92",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "633",
     "Şirket Kodu": "MPARK",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -7892,6 +7580,18 @@
     "Hedef Fiyat": "610,20",
     "Son Fiyat": "452,50",
     "Potansiyel Getiri": "% 34,85",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "633",
+    "Şirket Kodu": "AGHOL",
+    "Kurum": "Tera",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "13 Nisan 2026",
+    "Hedef Fiyat": "55,00",
+    "Son Fiyat": "34,22",
+    "Potansiyel Getiri": "% 60,72",
     "Model Portföy": "",
     "Ek": ""
   },
@@ -7921,30 +7621,6 @@
   },
   {
     "#": "636",
-    "Şirket Kodu": "TCELL",
-    "Kurum": "Tera",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "13 Nisan 2026",
-    "Hedef Fiyat": "176,30",
-    "Son Fiyat": "114,90",
-    "Potansiyel Getiri": "% 53,44",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "637",
-    "Şirket Kodu": "CCOLA",
-    "Kurum": "Tera",
-    "Öneri": "Endeks Üstü",
-    "Güncellenme Tarihi": "13 Nisan 2026",
-    "Hedef Fiyat": "116,60",
-    "Son Fiyat": "82,50",
-    "Potansiyel Getiri": "% 41,33",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "638",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -7956,7 +7632,43 @@
     "Ek": ""
   },
   {
+    "#": "637",
+    "Şirket Kodu": "TCELL",
+    "Kurum": "Tera",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "13 Nisan 2026",
+    "Hedef Fiyat": "176,30",
+    "Son Fiyat": "114,90",
+    "Potansiyel Getiri": "% 53,44",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "638",
+    "Şirket Kodu": "CCOLA",
+    "Kurum": "Tera",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "13 Nisan 2026",
+    "Hedef Fiyat": "116,60",
+    "Son Fiyat": "82,50",
+    "Potansiyel Getiri": "% 41,33",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
     "#": "639",
+    "Şirket Kodu": "AKGRT",
+    "Kurum": "Tera",
+    "Öneri": "Endeks Üstü",
+    "Güncellenme Tarihi": "13 Nisan 2026",
+    "Hedef Fiyat": "11,94",
+    "Son Fiyat": "7,24",
+    "Potansiyel Getiri": "% 64,92",
+    "Model Portföy": "",
+    "Ek": ""
+  },
+  {
+    "#": "640",
     "Şirket Kodu": "ASTOR",
     "Kurum": "Bulls",
     "Öneri": "Endeks Üstü",
@@ -7968,7 +7680,7 @@
     "Ek": ""
   },
   {
-    "#": "640",
+    "#": "641",
     "Şirket Kodu": "ASTOR",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -7980,7 +7692,7 @@
     "Ek": ""
   },
   {
-    "#": "641",
+    "#": "642",
     "Şirket Kodu": "NTGAZ",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -7992,7 +7704,7 @@
     "Ek": ""
   },
   {
-    "#": "642",
+    "#": "643",
     "Şirket Kodu": "TTRAK",
     "Kurum": "HSBC",
     "Öneri": "Tut",
@@ -8004,7 +7716,7 @@
     "Ek": ""
   },
   {
-    "#": "643",
+    "#": "644",
     "Şirket Kodu": "PETKM",
     "Kurum": "HSBC",
     "Öneri": "",
@@ -8016,7 +7728,7 @@
     "Ek": ""
   },
   {
-    "#": "644",
+    "#": "645",
     "Şirket Kodu": "AKSEN",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -8028,7 +7740,7 @@
     "Ek": ""
   },
   {
-    "#": "645",
+    "#": "646",
     "Şirket Kodu": "BRSAN",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -8040,7 +7752,7 @@
     "Ek": ""
   },
   {
-    "#": "646",
+    "#": "647",
     "Şirket Kodu": "MGROS",
     "Kurum": "Global",
     "Öneri": "Al",
@@ -8052,7 +7764,7 @@
     "Ek": ""
   },
   {
-    "#": "647",
+    "#": "648",
     "Şirket Kodu": "AKFYE",
     "Kurum": "A1",
     "Öneri": "Tut",
@@ -8064,7 +7776,7 @@
     "Ek": ""
   },
   {
-    "#": "648",
+    "#": "649",
     "Şirket Kodu": "TRGYO",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -8076,7 +7788,7 @@
     "Ek": ""
   },
   {
-    "#": "649",
+    "#": "650",
     "Şirket Kodu": "OYAKC",
     "Kurum": "QNB",
     "Öneri": "Endeks Üstü",
@@ -8088,7 +7800,7 @@
     "Ek": ""
   },
   {
-    "#": "650",
+    "#": "651",
     "Şirket Kodu": "SELEC",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -8100,7 +7812,7 @@
     "Ek": ""
   },
   {
-    "#": "651",
+    "#": "652",
     "Şirket Kodu": "MPARK",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8112,7 +7824,7 @@
     "Ek": ""
   },
   {
-    "#": "652",
+    "#": "653",
     "Şirket Kodu": "ENJSA",
     "Kurum": "A1",
     "Öneri": "Tut",
@@ -8124,7 +7836,7 @@
     "Ek": ""
   },
   {
-    "#": "653",
+    "#": "654",
     "Şirket Kodu": "MAVI",
     "Kurum": "İnfo",
     "Öneri": "",
@@ -8136,7 +7848,7 @@
     "Ek": ""
   },
   {
-    "#": "654",
+    "#": "655",
     "Şirket Kodu": "MAVI",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -8148,7 +7860,7 @@
     "Ek": ""
   },
   {
-    "#": "655",
+    "#": "656",
     "Şirket Kodu": "DOAS",
     "Kurum": "A1",
     "Öneri": "Al",
@@ -8160,7 +7872,7 @@
     "Ek": ""
   },
   {
-    "#": "656",
+    "#": "657",
     "Şirket Kodu": "YKBNK",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8172,7 +7884,7 @@
     "Ek": ""
   },
   {
-    "#": "657",
+    "#": "658",
     "Şirket Kodu": "ISCTR",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8184,7 +7896,7 @@
     "Ek": ""
   },
   {
-    "#": "658",
+    "#": "659",
     "Şirket Kodu": "GARAN",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8196,7 +7908,7 @@
     "Ek": ""
   },
   {
-    "#": "659",
+    "#": "660",
     "Şirket Kodu": "AKBNK",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8208,7 +7920,7 @@
     "Ek": ""
   },
   {
-    "#": "660",
+    "#": "661",
     "Şirket Kodu": "YATAS",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -8220,7 +7932,7 @@
     "Ek": ""
   },
   {
-    "#": "661",
+    "#": "662",
     "Şirket Kodu": "EBEBK",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -8232,7 +7944,7 @@
     "Ek": ""
   },
   {
-    "#": "662",
+    "#": "663",
     "Şirket Kodu": "DOHOL",
     "Kurum": "ICBC",
     "Öneri": "Al",
@@ -8244,7 +7956,7 @@
     "Ek": ""
   },
   {
-    "#": "663",
+    "#": "664",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -8256,7 +7968,7 @@
     "Ek": ""
   },
   {
-    "#": "664",
+    "#": "665",
     "Şirket Kodu": "ALARK",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8268,7 +7980,7 @@
     "Ek": ""
   },
   {
-    "#": "665",
+    "#": "666",
     "Şirket Kodu": "YATAS",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8280,7 +7992,7 @@
     "Ek": ""
   },
   {
-    "#": "666",
+    "#": "667",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -8292,7 +8004,7 @@
     "Ek": ""
   },
   {
-    "#": "667",
+    "#": "668",
     "Şirket Kodu": "BIOEN",
     "Kurum": "Halk",
     "Öneri": "Tut",
@@ -8304,7 +8016,7 @@
     "Ek": ""
   },
   {
-    "#": "668",
+    "#": "669",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8316,7 +8028,7 @@
     "Ek": ""
   },
   {
-    "#": "669",
+    "#": "670",
     "Şirket Kodu": "BIOEN",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -8328,7 +8040,7 @@
     "Ek": ""
   },
   {
-    "#": "670",
+    "#": "671",
     "Şirket Kodu": "TRGYO",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -8340,7 +8052,7 @@
     "Ek": ""
   },
   {
-    "#": "671",
+    "#": "672",
     "Şirket Kodu": "DESA",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8352,7 +8064,7 @@
     "Ek": ""
   },
   {
-    "#": "672",
+    "#": "673",
     "Şirket Kodu": "BIMAS",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8364,7 +8076,7 @@
     "Ek": ""
   },
   {
-    "#": "673",
+    "#": "674",
     "Şirket Kodu": "INDES",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -8376,7 +8088,7 @@
     "Ek": ""
   },
   {
-    "#": "674",
+    "#": "675",
     "Şirket Kodu": "ALARK",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8388,7 +8100,7 @@
     "Ek": ""
   },
   {
-    "#": "675",
+    "#": "676",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -8400,7 +8112,7 @@
     "Ek": ""
   },
   {
-    "#": "676",
+    "#": "677",
     "Şirket Kodu": "ULKER",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8412,7 +8124,7 @@
     "Ek": ""
   },
   {
-    "#": "677",
+    "#": "678",
     "Şirket Kodu": "INDES",
     "Kurum": "Halk",
     "Öneri": "Al",
@@ -8424,7 +8136,7 @@
     "Ek": ""
   },
   {
-    "#": "678",
+    "#": "679",
     "Şirket Kodu": "KRDMD",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -8436,7 +8148,7 @@
     "Ek": ""
   },
   {
-    "#": "679",
+    "#": "680",
     "Şirket Kodu": "KCAER",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8448,7 +8160,7 @@
     "Ek": ""
   },
   {
-    "#": "680",
+    "#": "681",
     "Şirket Kodu": "AGHOL",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -8460,7 +8172,7 @@
     "Ek": ""
   },
   {
-    "#": "681",
+    "#": "682",
     "Şirket Kodu": "SAHOL",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -8472,7 +8184,7 @@
     "Ek": ""
   },
   {
-    "#": "682",
+    "#": "683",
     "Şirket Kodu": "MPARK",
     "Kurum": "Oyak",
     "Öneri": "Endeks Üstü",
@@ -8484,7 +8196,7 @@
     "Ek": ""
   },
   {
-    "#": "683",
+    "#": "684",
     "Şirket Kodu": "TCELL",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8496,7 +8208,7 @@
     "Ek": ""
   },
   {
-    "#": "684",
+    "#": "685",
     "Şirket Kodu": "AGHOL",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8508,7 +8220,7 @@
     "Ek": ""
   },
   {
-    "#": "685",
+    "#": "686",
     "Şirket Kodu": "EKGYO",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -8520,7 +8232,7 @@
     "Ek": ""
   },
   {
-    "#": "686",
+    "#": "687",
     "Şirket Kodu": "EKGYO",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8532,7 +8244,7 @@
     "Ek": ""
   },
   {
-    "#": "687",
+    "#": "688",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Marbaş",
     "Öneri": "Al",
@@ -8544,7 +8256,7 @@
     "Ek": ""
   },
   {
-    "#": "688",
+    "#": "689",
     "Şirket Kodu": "TCELL",
     "Kurum": "BofA",
     "Öneri": "Al",
@@ -8556,7 +8268,7 @@
     "Ek": ""
   },
   {
-    "#": "689",
+    "#": "690",
     "Şirket Kodu": "PETKM",
     "Kurum": "Yapı Kr.",
     "Öneri": "Sat",
@@ -8568,7 +8280,7 @@
     "Ek": ""
   },
   {
-    "#": "690",
+    "#": "691",
     "Şirket Kodu": "TCELL",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8580,7 +8292,7 @@
     "Ek": ""
   },
   {
-    "#": "691",
+    "#": "692",
     "Şirket Kodu": "TCELL",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -8592,7 +8304,7 @@
     "Ek": ""
   },
   {
-    "#": "692",
+    "#": "693",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Şeker",
     "Öneri": "Al",
@@ -8604,7 +8316,7 @@
     "Ek": ""
   },
   {
-    "#": "693",
+    "#": "694",
     "Şirket Kodu": "AKSEN",
     "Kurum": "Yapı Kr.",
     "Öneri": "Al",
@@ -8616,7 +8328,7 @@
     "Ek": ""
   },
   {
-    "#": "694",
+    "#": "695",
     "Şirket Kodu": "ENKAI",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -8628,7 +8340,7 @@
     "Ek": ""
   },
   {
-    "#": "695",
+    "#": "696",
     "Şirket Kodu": "MGROS",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8640,7 +8352,7 @@
     "Ek": ""
   },
   {
-    "#": "696",
+    "#": "697",
     "Şirket Kodu": "MGROS",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8652,7 +8364,7 @@
     "Ek": ""
   },
   {
-    "#": "697",
+    "#": "698",
     "Şirket Kodu": "TTKOM",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8664,7 +8376,7 @@
     "Ek": ""
   },
   {
-    "#": "698",
+    "#": "699",
     "Şirket Kodu": "THYAO",
     "Kurum": "Tacirler",
     "Öneri": "Al",
@@ -8676,7 +8388,7 @@
     "Ek": ""
   },
   {
-    "#": "699",
+    "#": "700",
     "Şirket Kodu": "PGSUS",
     "Kurum": "TEB Yat.",
     "Öneri": "Endekse Paralel",
@@ -8688,7 +8400,7 @@
     "Ek": ""
   },
   {
-    "#": "700",
+    "#": "701",
     "Şirket Kodu": "THYAO",
     "Kurum": "Vakıf",
     "Öneri": "Al",
@@ -8700,7 +8412,7 @@
     "Ek": ""
   },
   {
-    "#": "701",
+    "#": "702",
     "Şirket Kodu": "DOAS",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -8712,7 +8424,7 @@
     "Ek": ""
   },
   {
-    "#": "702",
+    "#": "703",
     "Şirket Kodu": "OYAKC",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -8724,7 +8436,7 @@
     "Ek": ""
   },
   {
-    "#": "703",
+    "#": "704",
     "Şirket Kodu": "MGROS",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8736,7 +8448,7 @@
     "Ek": ""
   },
   {
-    "#": "704",
+    "#": "705",
     "Şirket Kodu": "SAHOL",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8748,7 +8460,7 @@
     "Ek": ""
   },
   {
-    "#": "705",
+    "#": "706",
     "Şirket Kodu": "PGSUS",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8760,7 +8472,7 @@
     "Ek": ""
   },
   {
-    "#": "706",
+    "#": "707",
     "Şirket Kodu": "TTKOM",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8772,7 +8484,7 @@
     "Ek": ""
   },
   {
-    "#": "707",
+    "#": "708",
     "Şirket Kodu": "SAHOL",
     "Kurum": "İntegral",
     "Öneri": "Al",
@@ -8784,7 +8496,7 @@
     "Ek": ""
   },
   {
-    "#": "708",
+    "#": "709",
     "Şirket Kodu": "THYAO",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8796,7 +8508,7 @@
     "Ek": ""
   },
   {
-    "#": "709",
+    "#": "710",
     "Şirket Kodu": "DOHOL",
     "Kurum": "Deniz",
     "Öneri": "Al",
@@ -8808,7 +8520,7 @@
     "Ek": ""
   },
   {
-    "#": "710",
+    "#": "711",
     "Şirket Kodu": "CCOLA",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8820,7 +8532,7 @@
     "Ek": ""
   },
   {
-    "#": "711",
+    "#": "712",
     "Şirket Kodu": "AVPGY",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8832,7 +8544,7 @@
     "Ek": ""
   },
   {
-    "#": "712",
+    "#": "713",
     "Şirket Kodu": "TABGD",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -8844,7 +8556,7 @@
     "Ek": ""
   },
   {
-    "#": "713",
+    "#": "714",
     "Şirket Kodu": "AVPGY",
     "Kurum": "Garanti",
     "Öneri": "Endeks Üstü",
@@ -8856,7 +8568,7 @@
     "Ek": ""
   },
   {
-    "#": "714",
+    "#": "715",
     "Şirket Kodu": "DOAS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -8868,7 +8580,7 @@
     "Ek": ""
   },
   {
-    "#": "715",
+    "#": "716",
     "Şirket Kodu": "TABGD",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8880,7 +8592,7 @@
     "Ek": ""
   },
   {
-    "#": "716",
+    "#": "717",
     "Şirket Kodu": "ALFAS",
     "Kurum": "Deniz",
     "Öneri": "Tut",
@@ -8892,7 +8604,7 @@
     "Ek": ""
   },
   {
-    "#": "717",
+    "#": "718",
     "Şirket Kodu": "DOAS",
     "Kurum": "Ak",
     "Öneri": "Endeks Üstü",
@@ -8904,7 +8616,7 @@
     "Ek": ""
   },
   {
-    "#": "718",
+    "#": "719",
     "Şirket Kodu": "GWIND",
     "Kurum": "Tera",
     "Öneri": "Endeks Üstü",
@@ -8916,7 +8628,7 @@
     "Ek": ""
   },
   {
-    "#": "719",
+    "#": "720",
     "Şirket Kodu": "ONCSM",
     "Kurum": "Bulls",
     "Öneri": "Endekse Paralel",
@@ -8928,7 +8640,7 @@
     "Ek": ""
   },
   {
-    "#": "720",
+    "#": "721",
     "Şirket Kodu": "CIMSA",
     "Kurum": "GCM",
     "Öneri": "",
@@ -8940,7 +8652,7 @@
     "Ek": ""
   },
   {
-    "#": "721",
+    "#": "722",
     "Şirket Kodu": "KCAER",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -8952,7 +8664,7 @@
     "Ek": ""
   },
   {
-    "#": "722",
+    "#": "723",
     "Şirket Kodu": "ASELS",
     "Kurum": "Ata",
     "Öneri": "Tut",
@@ -8964,7 +8676,7 @@
     "Ek": ""
   },
   {
-    "#": "723",
+    "#": "724",
     "Şirket Kodu": "ASELS",
     "Kurum": "İntegral",
     "Öneri": "",
@@ -8976,7 +8688,7 @@
     "Ek": ""
   },
   {
-    "#": "724",
+    "#": "725",
     "Şirket Kodu": "TURSG",
     "Kurum": "HSBC",
     "Öneri": "Al",
@@ -8988,7 +8700,7 @@
     "Ek": ""
   },
   {
-    "#": "725",
+    "#": "726",
     "Şirket Kodu": "ASELS",
     "Kurum": "Yapı Kr.",
     "Öneri": "Tut",
@@ -9000,7 +8712,7 @@
     "Ek": ""
   },
   {
-    "#": "726",
+    "#": "727",
     "Şirket Kodu": "HALKB",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -9012,7 +8724,7 @@
     "Ek": ""
   },
   {
-    "#": "727",
+    "#": "728",
     "Şirket Kodu": "HALKB",
     "Kurum": "ICBC",
     "Öneri": "Tut",
@@ -9024,7 +8736,7 @@
     "Ek": ""
   },
   {
-    "#": "728",
+    "#": "729",
     "Şirket Kodu": "HALKB",
     "Kurum": "Phillip",
     "Öneri": "Endekse Paralel",
@@ -9036,7 +8748,7 @@
     "Ek": ""
   },
   {
-    "#": "729",
+    "#": "730",
     "Şirket Kodu": "EREGL",
     "Kurum": "Ata",
     "Öneri": "Tut",
@@ -9048,7 +8760,7 @@
     "Ek": ""
   },
   {
-    "#": "730",
+    "#": "731",
     "Şirket Kodu": "MACKO",
     "Kurum": "Phillip",
     "Öneri": "Endeks Üstü",
@@ -9060,7 +8772,7 @@
     "Ek": ""
   },
   {
-    "#": "731",
+    "#": "732",
     "Şirket Kodu": "KCHOL",
     "Kurum": "Ziraat",
     "Öneri": "Al",
@@ -9068,18 +8780,6 @@
     "Hedef Fiyat": "336,50",
     "Son Fiyat": "196,80",
     "Potansiyel Getiri": "% 70,99",
-    "Model Portföy": "",
-    "Ek": ""
-  },
-  {
-    "#": "732",
-    "Şirket Kodu": "YYLGD",
-    "Kurum": "Alnus",
-    "Öneri": "Al",
-    "Güncellenme Tarihi": "19 Şubat 2026",
-    "Hedef Fiyat": "17,40",
-    "Son Fiyat": "11,53",
-    "Potansiyel Getiri": "% 50,91",
     "Model Portföy": "",
     "Ek": ""
   },
